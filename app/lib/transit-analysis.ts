@@ -390,14 +390,14 @@ export const AREA_CONFIGS: Record<AreaId, AreaConfig> = {
       slopeNote: "急傾斜・階段市街地補正（上り坂距離換算 1.55倍 / 高齢者1.85倍）",
       walkProfiles: {
         general: {
-          label: "一般（呉・急傾斜階段補正）",
+          label: "一般（急傾斜・階段補正）",
           slopePenaltyFactor: 4.5,
           uphillDistanceMultiplier: 1.55,
           downhillDistanceMultiplier: 1.1,
           walkSpeedMPerMin: 63,
         },
         elderly: {
-          label: "高齢者（急勾配・階段の負荷強調）",
+          label: "高齢者（急傾斜・階段補正：負荷2倍）",
           slopePenaltyFactor: 9.0,
           uphillDistanceMultiplier: 1.85,
           downhillDistanceMultiplier: 1.2,
