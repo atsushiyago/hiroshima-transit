@@ -45,7 +45,7 @@ import {
 import { NetworkRouter, type RoutingGraph } from "./lib/network-routing";
 import { TileWorkGate } from "./lib/async-generation";
 import type { AnalysisResponse } from "./workers/transit-analysis.worker";
-import { useEffect, useRef, useState, type ReactNode } from "react";
+import { useEffect, useRef, useState, useCallback, type ReactNode } from "react";
 import * as Cesium from "cesium";
 
 // PLATEAU-Terrain（Cesium ionトークン不要で利用可能）
@@ -2298,6 +2298,21 @@ export default function PlateauViewer() {
   const [selectedAreaId, setSelectedAreaId] = useState<AreaId>(DEFAULT_AREA_ID);
   const [areaDataStatusNote, setAreaDataStatusNote] = useState<string | null>(null);
   const [analysisError, setAnalysisError] = useState<string | null>(null);
+  const [roadSnapNotice, setRoadSnapNotice] = useState<{ message: string; isError: boolean } | null>(null);
+  const roadSnapNoticeTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const showRoadSnapNoticeRef = useRef<(message: string, isError?: boolean) => void>(() => {});
+
+  const showRoadSnapNotice = useCallback((message: string, isError = false) => {
+    if (roadSnapNoticeTimerRef.current) {
+      clearTimeout(roadSnapNoticeTimerRef.current);
+    }
+    setRoadSnapNotice({ message, isError });
+    // エラー時は2.6秒、成功時は邪魔にならないよう短め（1.8秒）に自動消去
+    roadSnapNoticeTimerRef.current = setTimeout(() => {
+      setRoadSnapNotice(null);
+    }, isError ? 2600 : 1800);
+  }, []);
+  showRoadSnapNoticeRef.current = showRoadSnapNotice;
   const containerRef = useRef<HTMLDivElement>(null);
   const viewerRef = useRef<Cesium.Viewer | null>(null);
   const [popup, setPopup] = useState<PopupInfo | null>(null);
@@ -4200,7 +4215,52 @@ export default function PlateauViewer() {
         if (isAddingCustomStopRef.current) {
           const groundPos = pickGroundLatLng(viewer, movement.position);
           if (groundPos) {
-            addCustomStop(groundPos.lat, groundPos.lng);
+            void (async () => {
+              try {
+                const res = await fetch(
+                  `/api/snap-road?lat=${groundPos.lat}&lng=${groundPos.lng}&area=${encodeURIComponent(
+                    selectedAreaIdRef.current
+                  )}&maxDistance=35`
+                );
+                if (!res.ok) {
+                  addCustomStop(groundPos.lat, groundPos.lng);
+                  return;
+                }
+                const data: {
+                  snapped: boolean;
+                  distanceMeters: number | null;
+                  snappedTo: { lat: number; lng: number } | null;
+                  areaNotSupported?: boolean;
+                } = await res.json();
+
+                if (data.areaNotSupported) {
+                  addCustomStop(groundPos.lat, groundPos.lng);
+                  return;
+                }
+
+                if (data.snapped && data.snappedTo) {
+                  addCustomStop(data.snappedTo.lat, data.snappedTo.lng);
+                  if (typeof data.distanceMeters === "number" && data.distanceMeters >= 3) {
+                    showRoadSnapNoticeRef.current(
+                      `最寄りの道路（${data.distanceMeters}m）に自動吸着して配置しました`
+                    );
+                  } else {
+                    showRoadSnapNoticeRef.current("道路上に停留所を配置しました");
+                  }
+                } else {
+                  const distInfo =
+                    typeof data.distanceMeters === "number"
+                      ? `（道路から約${data.distanceMeters}m）`
+                      : "";
+                  showRoadSnapNoticeRef.current(
+                    `道路がない場所には配置できません${distInfo}。道路沿いをクリックしてください`,
+                    true
+                  );
+                }
+              } catch {
+                addCustomStop(groundPos.lat, groundPos.lng);
+              }
+            })();
           }
           return;
         }
@@ -4582,6 +4642,58 @@ export default function PlateauViewer() {
         />
       )}
       {analysisError && <div role="alert" style={{position:'absolute',right:12,top:12,zIndex:20,maxWidth:360,padding:12,background:'#7f1d1d',color:'white'}}>{analysisError}<button onClick={()=>setAnalysisError(null)} aria-label="通知を閉じる">×</button></div>}
+      {roadSnapNotice && (
+        <div
+          role="status"
+          style={
+            roadSnapNotice.isError
+              ? {
+                  position: "absolute",
+                  top: "50%",
+                  left: "50%",
+                  transform: "translate(-50%, -50%)",
+                  zIndex: 200,
+                  padding: "14px 22px",
+                  background: "rgba(185, 28, 28, 0.94)",
+                  color: "#ffffff",
+                  fontSize: 14,
+                  fontWeight: "bold",
+                  borderRadius: 8,
+                  boxShadow: "0 8px 32px rgba(0, 0, 0, 0.5)",
+                  border: "1px solid rgba(255, 255, 255, 0.2)",
+                  display: "flex",
+                  alignItems: "center",
+                  gap: 10,
+                  backdropFilter: "blur(8px)",
+                  pointerEvents: "none",
+                  whiteSpace: "nowrap",
+                }
+              : {
+                  position: "absolute",
+                  top: 16,
+                  left: "50%",
+                  transform: "translateX(-50%)",
+                  zIndex: 100,
+                  padding: "8px 18px",
+                  background: "rgba(14, 116, 144, 0.94)",
+                  color: "#ffffff",
+                  fontSize: 13,
+                  fontWeight: "bold",
+                  borderRadius: 6,
+                  boxShadow: "0 4px 16px rgba(0, 0, 0, 0.4)",
+                  display: "flex",
+                  alignItems: "center",
+                  gap: 8,
+                  backdropFilter: "blur(6px)",
+                  pointerEvents: "none",
+                  whiteSpace: "nowrap",
+                }
+          }
+        >
+          <span>{roadSnapNotice.isError ? "⚠️" : "📍"}</span>
+          <span>{roadSnapNotice.message}</span>
+        </div>
+      )}
       <UncoloredBuildingsNote />
       <DemandTransitRecommendationPanel
         analysis={demandTransitPlanAnalysis}
