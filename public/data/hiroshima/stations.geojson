@@ -1,0 +1,618 @@
+{
+  "type": "FeatureCollection",
+  "name": "hiroshima_stations",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4960128,
+          34.5171925
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "あき亀山駅",
+        "operator": "西日本旅客鉄道",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4805594,
+          34.4719961
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "七軒茶屋駅",
+        "operator": "JR西日本",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4473512,
+          34.4172255
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "三滝駅",
+        "operator": "西日本旅客鉄道",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5060318,
+          34.4899154
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "上八木駅",
+        "operator": "JR西日本",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4447292,
+          34.4757349
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "上安駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5244015,
+          34.4887408
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "下深川駅",
+        "operator": "西日本旅客鉄道",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4625325,
+          34.4395351
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "下祗園駅",
+        "operator": "JR西日本",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4689107,
+          34.4265677
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "不動院前駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.513031,
+          34.5005256
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "中島駅",
+        "operator": "JR西日本",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5340327,
+          34.4810297
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "中深川駅",
+        "operator": "西日本旅客鉄道",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4769955,
+          34.451686
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "中筋駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4052287,
+          34.45598
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "伴中央駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4191041,
+          34.4699078
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "伴駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4681971,
+          34.4507923
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "古市橋駅",
+        "operator": "JR西日本",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4752085,
+          34.4577195
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "古市駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5107458,
+          34.5121141
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "可部駅",
+        "operator": "西日本旅客鉄道",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4127184,
+          34.4632256
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "大原駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.402817,
+          34.4415716
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "大塚駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4706451,
+          34.4611161
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "大町駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン・JR可部線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4533465,
+          34.4749944
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "安東駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4949935,
+          34.4631489
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "安芸矢口駅",
+        "operator": "西日本旅客鉄道",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4560454,
+          34.428274
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "安芸長束駅",
+        "operator": "JR西日本",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4001446,
+          34.4354023
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "広域公園前駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4912722,
+          34.4381672
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "戸坂駅",
+        "operator": "西日本旅客鉄道",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4942334,
+          34.4808645
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "梅林駅",
+        "operator": "JR西日本",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4508213,
+          34.4104178
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "横川駅",
+        "operator": "西日本旅客鉄道",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4626873,
+          34.4696015
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "毘沙門台駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5052063,
+          34.516709
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "河戸帆待川駅",
+        "operator": "西日本旅客鉄道",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4647868,
+          34.4175234
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "牛田駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5082828,
+          34.4823
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "玖村駅",
+        "operator": "西日本旅客鉄道",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4627488,
+          34.4109218
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "白島駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4708622,
+          34.4352184
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "祗園新橋北駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4759686,
+          34.4675983
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "緑井駅",
+        "operator": "JR西日本",
+        "line": "JR可部線・芸備線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4748216,
+          34.4433627
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "西原駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4310097,
+          34.4729632
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "長楽寺駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.438136,
+          34.4751622
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "高取駅",
+        "operator": "広島高速交通（アストラムライン）",
+        "line": "アストラムライン"
+      }
+    }
+  ]
+}

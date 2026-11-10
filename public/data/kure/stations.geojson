@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "name": "kure_stations",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.557941,
+          34.244974
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "呉駅",
+        "operator": "JR西日本（呉線）",
+        "line": "JR呉線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.596094,
+          34.236153
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "安芸阿賀駅",
+        "operator": "JR西日本（呉線）",
+        "line": "JR呉線"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.541695,
+          34.245421
+        ]
+      },
+      "properties": {
+        "facility_type": "station",
+        "facilityType": "station",
+        "name": "川原石駅",
+        "operator": "JR西日本（呉線）",
+        "line": "JR呉線"
+      }
+    }
+  ]
+}

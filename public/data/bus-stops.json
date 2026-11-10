@@ -1,0 +1,7384 @@
+{
+  "busStops": [
+    {
+      "name": "2街区グラウンド前",
+      "lat": 35.36797876,
+      "lng": 139.46604991,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善04",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "3号西",
+      "lat": 35.37979244,
+      "lng": 139.46034663,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "4号西",
+      "lat": 35.37761628,
+      "lng": 139.45978948,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "5号西",
+      "lat": 35.37588508,
+      "lng": 139.45930176,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "NOK前",
+      "lat": 35.34161725,
+      "lng": 139.46516992,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "いすゞ前",
+      "lat": 35.40724067,
+      "lng": 139.44964177,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "いすゞ南門",
+      "lat": 35.39550222,
+      "lng": 139.45250565,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘14",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "こぶし荘",
+      "lat": 35.40782091,
+      "lng": 139.45737265,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長41",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "とどろき公園",
+      "lat": 35.40335374,
+      "lng": 139.46148273,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長41",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "ふじがおか幼稚園前",
+      "lat": 35.34785115,
+      "lng": 139.49468389,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤60",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "ソニー前",
+      "lat": 35.33824563,
+      "lng": 139.46302281,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤01",
+          "classCode": "1"
+        },
+        {
+          "name": "辻09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "プレス工業前",
+      "lat": 35.38299424,
+      "lng": 139.44892721,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "マーケット前",
+      "lat": 35.36706191,
+      "lng": 139.46482251,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善01",
+          "classCode": "1"
+        },
+        {
+          "name": "善04",
+          "classCode": "1"
+        },
+        {
+          "name": "善05",
+          "classCode": "1"
+        },
+        {
+          "name": "善06",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "メルシャン前",
+      "lat": 35.34652695,
+      "lng": 139.46339153,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "ヤクルト前",
+      "lat": 35.33818551,
+      "lng": 139.46961807,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤01",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "ライフタウン中央",
+      "lat": 35.36577939,
+      "lng": 139.44642262,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "辻23",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "一ノ坪",
+      "lat": 35.37238926,
+      "lng": 139.44988535,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘12",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "一中入口",
+      "lat": 35.34724031,
+      "lng": 139.46944878,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "一本松",
+      "lat": 35.33869591,
+      "lng": 139.47993997,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤01",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "一色上",
+      "lat": 35.38716089,
+      "lng": 139.44886965,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "湘15",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "三富士町",
+      "lat": 35.33887094,
+      "lng": 139.48290083,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤01",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "三富士町",
+      "lat": 35.33947256,
+      "lng": 139.48429988,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "戸81",
+          "classCode": "1"
+        },
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤04",
+          "classCode": "1"
+        },
+        {
+          "name": "藤06",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤56",
+          "classCode": "1"
+        },
+        {
+          "name": "船32",
+          "classCode": "1"
+        },
+        {
+          "name": "船33",
+          "classCode": "1"
+        },
+        {
+          "name": "船65",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "三富士町",
+      "lat": 35.33947256,
+      "lng": 139.48429988,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "藤04",
+          "classCode": "1"
+        },
+        {
+          "name": "藤06",
+          "classCode": "1"
+        },
+        {
+          "name": "F9",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "上宮下",
+      "lat": 35.41099836,
+      "lng": 139.4293035,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘22",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "上村",
+      "lat": 35.34266641,
+      "lng": 139.47085722,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "上村橋",
+      "lat": 35.34216614,
+      "lng": 139.46815245,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "上谷台",
+      "lat": 35.41773063,
+      "lng": 139.45818608,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長22",
+          "classCode": "1"
+        },
+        {
+          "name": "長24",
+          "classCode": "1"
+        },
+        {
+          "name": "長33",
+          "classCode": "1"
+        },
+        {
+          "name": "長37",
+          "classCode": "1"
+        },
+        {
+          "name": "長38",
+          "classCode": "1"
+        },
+        {
+          "name": "長39",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "上高倉",
+      "lat": 35.41698995,
+      "lng": 139.47575428,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "い08",
+          "classCode": "1"
+        },
+        {
+          "name": "長54",
+          "classCode": "1"
+        },
+        {
+          "name": "長55",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "下土棚",
+      "lat": 35.40727824,
+      "lng": 139.45127833,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長12",
+          "classCode": "1"
+        },
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "下屋敷",
+      "lat": 35.37956947,
+      "lng": 139.48255009,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘27",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "下高倉",
+      "lat": 35.39865496,
+      "lng": 139.47103551,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "並木台",
+      "lat": 35.35313817,
+      "lng": 139.50353581,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤60",
+          "classCode": "1"
+        },
+        {
+          "name": "船30",
+          "classCode": "1"
+        },
+        {
+          "name": "船31",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "中原",
+      "lat": 35.40055529,
+      "lng": 139.41050779,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "中郷",
+      "lat": 35.35447972,
+      "lng": 139.4650839,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善02",
+          "classCode": "1"
+        },
+        {
+          "name": "善03",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "丸石",
+      "lat": 35.38649487,
+      "lng": 139.45250575,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘13",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "亀井野",
+      "lat": 35.38167976,
+      "lng": 139.48084522,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘27",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "亀井野三丁目",
+      "lat": 35.38416612,
+      "lng": 139.47902285,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘27",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "亀井野住宅",
+      "lat": 35.36800572,
+      "lng": 139.48116289,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　01系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "亀井野公園",
+      "lat": 35.36804238,
+      "lng": 139.48053794,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　01系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "亀井野団地",
+      "lat": 35.36770131,
+      "lng": 139.47991299,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　01系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "亀井野団地入口",
+      "lat": 35.36591876,
+      "lng": 139.48203114,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "二ツ谷",
+      "lat": 35.34417442,
+      "lng": 139.44463175,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        },
+        {
+          "name": "辻01",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "二番構保健医療センター",
+      "lat": 35.36883568,
+      "lng": 139.44651288,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "辻23",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "五反田",
+      "lat": 35.37034793,
+      "lng": 139.45245017,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "今田",
+      "lat": 35.3939479,
+      "lng": 139.472551,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘27",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "今田上原",
+      "lat": 35.39835474,
+      "lng": 139.47286817,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "今田西原",
+      "lat": 35.39428894,
+      "lng": 139.47444837,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "仲之桜",
+      "lat": 35.39813993,
+      "lng": 139.43938157,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "伊勢山入口",
+      "lat": 35.35018422,
+      "lng": 139.47470945,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "伊勢山辺中央",
+      "lat": 35.35931291,
+      "lng": 139.48055038,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　02系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "伊勢山辺坂下",
+      "lat": 35.35888686,
+      "lng": 139.48205997,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　02系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "住宅前",
+      "lat": 35.34150906,
+      "lng": 139.45849437,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻31",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "住宅前",
+      "lat": 35.41018885,
+      "lng": 139.4575476,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長12",
+          "classCode": "1"
+        },
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        },
+        {
+          "name": "長41",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "住宅前",
+      "lat": 35.41393464,
+      "lng": 139.46997075,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "い08",
+          "classCode": "1"
+        },
+        {
+          "name": "長54",
+          "classCode": "1"
+        },
+        {
+          "name": "長55",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "保育園前",
+      "lat": 35.38067146,
+      "lng": 139.46683367,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "俣野原",
+      "lat": 35.37630461,
+      "lng": 139.48412356,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "俣野子どもの家",
+      "lat": 35.36625649,
+      "lng": 139.48226501,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　01系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "修道院下",
+      "lat": 35.3525081,
+      "lng": 139.47214051,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "修道院前",
+      "lat": 35.35494249,
+      "lng": 139.4685847,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "光友会入口",
+      "lat": 35.38682452,
+      "lng": 139.40997491,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "八洲台3の通",
+      "lat": 35.35816471,
+      "lng": 139.47958267,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　02系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "公園北",
+      "lat": 35.38902298,
+      "lng": 139.4514322,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘13",
+          "classCode": "1"
+        },
+        {
+          "name": "湘15",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "公民館前",
+      "lat": 35.34682791,
+      "lng": 139.49242434,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "船32",
+          "classCode": "1"
+        },
+        {
+          "name": "船33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "公民館前",
+      "lat": 35.40172319,
+      "lng": 139.44341508,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘22",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "六会",
+      "lat": 35.38915161,
+      "lng": 139.47561778,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘27",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "六会市民センター入口",
+      "lat": 35.38377292,
+      "lng": 139.47474313,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤58",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "六会日大前駅",
+      "lat": 35.38342053,
+      "lng": 139.47048202,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤58",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "六会日大前駅西口",
+      "lat": 35.38365273,
+      "lng": 139.47014065,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "六地蔵",
+      "lat": 35.39676105,
+      "lng": 139.44042652,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "円行上庭",
+      "lat": 35.39511432,
+      "lng": 139.46038037,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        },
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "湘22",
+          "classCode": "1"
+        },
+        {
+          "name": "湘23",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "出荷場前",
+      "lat": 35.40662889,
+      "lng": 139.43525689,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘22",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "刈込",
+      "lat": 35.38414138,
+      "lng": 139.43128012,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻33",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "加温処理場前",
+      "lat": 35.3955269,
+      "lng": 139.45174071,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘20",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "北の谷",
+      "lat": 35.3677338,
+      "lng": 139.45264016,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "北警察署前",
+      "lat": 35.39586105,
+      "lng": 139.45782415,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        },
+        {
+          "name": "湘12",
+          "classCode": "1"
+        },
+        {
+          "name": "湘13",
+          "classCode": "1"
+        },
+        {
+          "name": "湘15",
+          "classCode": "1"
+        },
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "湘22",
+          "classCode": "1"
+        },
+        {
+          "name": "湘23",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "十二天公園前",
+      "lat": 35.33975078,
+      "lng": 139.50791048,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "N6",
+          "classCode": "1"
+        },
+        {
+          "name": "N61",
+          "classCode": "1"
+        },
+        {
+          "name": "F65",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "南センター前",
+      "lat": 35.35916396,
+      "lng": 139.44413195,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "南仲通り",
+      "lat": 35.3426016,
+      "lng": 139.48249204,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "戸81",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤56",
+          "classCode": "1"
+        },
+        {
+          "name": "船32",
+          "classCode": "1"
+        },
+        {
+          "name": "船33",
+          "classCode": "1"
+        },
+        {
+          "name": "船65",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "南仲通り二丁目",
+      "lat": 35.34412168,
+      "lng": 139.48101636,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "南原",
+      "lat": 35.37677724,
+      "lng": 139.43639211,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘12",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        },
+        {
+          "name": "湘21",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "南大山",
+      "lat": 35.39305785,
+      "lng": 139.44656252,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        },
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘23",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        },
+        {
+          "name": "湘25",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "南大平",
+      "lat": 35.3687177,
+      "lng": 139.43414375,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "茅03",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "南山",
+      "lat": 35.34796137,
+      "lng": 139.45632489,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "南桐原",
+      "lat": 35.38852291,
+      "lng": 139.45732895,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘12",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        },
+        {
+          "name": "湘21",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "卸売市場前",
+      "lat": 35.35463746,
+      "lng": 139.46324294,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善02",
+          "classCode": "1"
+        },
+        {
+          "name": "善03",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "古里団地",
+      "lat": 35.40004613,
+      "lng": 139.41609915,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "台町",
+      "lat": 35.3472032,
+      "lng": 139.47634568,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "和泉橋",
+      "lat": 35.38224127,
+      "lng": 139.45317743,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        },
+        {
+          "name": "湘21",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行",
+      "lat": 35.35574801,
+      "lng": 139.47360678,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行二丁目",
+      "lat": 35.36422866,
+      "lng": 139.47000459,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善02",
+          "classCode": "1"
+        },
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "善06",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行二丁目坂上",
+      "lat": 35.36665449,
+      "lng": 139.46935715,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善01",
+          "classCode": "1"
+        },
+        {
+          "name": "善05",
+          "classCode": "1"
+        },
+        {
+          "name": "善06",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行南",
+      "lat": 35.35865572,
+      "lng": 139.47250437,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行台",
+      "lat": 35.36880258,
+      "lng": 139.47062955,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善04",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行団地",
+      "lat": 35.36687719,
+      "lng": 139.46217522,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善01",
+          "classCode": "1"
+        },
+        {
+          "name": "善04",
+          "classCode": "1"
+        },
+        {
+          "name": "善05",
+          "classCode": "1"
+        },
+        {
+          "name": "善06",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行団地西",
+      "lat": 35.36535902,
+      "lng": 139.46080061,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善05",
+          "classCode": "1"
+        },
+        {
+          "name": "善06",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行坂北",
+      "lat": 35.36354478,
+      "lng": 139.46162805,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善05",
+          "classCode": "1"
+        },
+        {
+          "name": "善06",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行坂南",
+      "lat": 35.36163474,
+      "lng": 139.46404146,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善05",
+          "classCode": "1"
+        },
+        {
+          "name": "善06",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行大橋",
+      "lat": 35.36008943,
+      "lng": 139.47108088,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行市民センター",
+      "lat": 35.36081269,
+      "lng": 139.47252715,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　02系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行駅",
+      "lat": 35.36303049,
+      "lng": 139.47298184,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善01",
+          "classCode": "1"
+        },
+        {
+          "name": "善02",
+          "classCode": "1"
+        },
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "善04",
+          "classCode": "1"
+        },
+        {
+          "name": "善05",
+          "classCode": "1"
+        },
+        {
+          "name": "善06",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行駅入口",
+      "lat": 35.36489055,
+      "lng": 139.47280325,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善04",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行駅東口",
+      "lat": 35.3631913,
+      "lng": 139.47367595,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　01系統",
+          "classCode": "1"
+        },
+        {
+          "name": "のりあい善行　02系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "善行駅東口下",
+      "lat": 35.36441366,
+      "lng": 139.47370818,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　01系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "四ツ谷",
+      "lat": 35.3462611,
+      "lng": 139.45057641,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "団地中央",
+      "lat": 35.39073473,
+      "lng": 139.45297345,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘13",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "団地入口",
+      "lat": 35.36732218,
+      "lng": 139.46813586,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善01",
+          "classCode": "1"
+        },
+        {
+          "name": "善05",
+          "classCode": "1"
+        },
+        {
+          "name": "善06",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "図書館前",
+      "lat": 35.39588233,
+      "lng": 139.47341315,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "坂下",
+      "lat": 35.40923142,
+      "lng": 139.45535804,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長12",
+          "classCode": "1"
+        },
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "坂口",
+      "lat": 35.39529672,
+      "lng": 139.41650685,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "城",
+      "lat": 35.34923069,
+      "lng": 139.45664209,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "城下",
+      "lat": 35.35972825,
+      "lng": 139.44925629,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "城南",
+      "lat": 35.3476563,
+      "lng": 139.44475678,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "城南一丁目",
+      "lat": 35.34665626,
+      "lng": 139.44799522,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "堂の前",
+      "lat": 35.38592726,
+      "lng": 139.41264427,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "大下",
+      "lat": 35.39585419,
+      "lng": 139.44398405,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘20",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "大六天",
+      "lat": 35.35360933,
+      "lng": 139.45435839,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "大山",
+      "lat": 35.39487265,
+      "lng": 139.44820987,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘20",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "大庭小学校",
+      "lat": 35.36378321,
+      "lng": 139.44548409,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "大庭隧道",
+      "lat": 35.34803442,
+      "lng": 139.4470989,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "大辻",
+      "lat": 35.37097862,
+      "lng": 139.42854497,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天沼",
+      "lat": 35.4155631,
+      "lng": 139.42870095,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘22",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天沼入口",
+      "lat": 35.41285978,
+      "lng": 139.42817825,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘22",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天神町1号",
+      "lat": 35.3808573,
+      "lng": 139.46424523,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天神町2号",
+      "lat": 35.38180081,
+      "lng": 139.46330167,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天神町3号",
+      "lat": 35.38000491,
+      "lng": 139.46169764,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天神町4号",
+      "lat": 35.37810651,
+      "lng": 139.46120882,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天神町5号",
+      "lat": 35.37646835,
+      "lng": 139.46120883,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天神町6号",
+      "lat": 35.37489408,
+      "lng": 139.46248265,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天神町7号",
+      "lat": 35.37419083,
+      "lng": 139.46359646,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天神町8号",
+      "lat": 35.37572732,
+      "lng": 139.46317648,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天神町9号",
+      "lat": 35.37604284,
+      "lng": 139.4629251,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天神町会館前",
+      "lat": 35.37868978,
+      "lng": 139.46006166,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "天神社前",
+      "lat": 35.36220283,
+      "lng": 139.45439864,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "奥田",
+      "lat": 35.41160113,
+      "lng": 139.45778896,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長43",
+          "classCode": "1"
+        },
+        {
+          "name": "長45",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "奥田",
+      "lat": 35.41160113,
+      "lng": 139.45778896,
+      "operator": "綾瀬市",
+      "routes": [
+        {
+          "name": "4号車　市役所→長後駅西口",
+          "classCode": "3"
+        }
+      ]
+    },
+    {
+      "name": "女坂",
+      "lat": 35.41758053,
+      "lng": 139.4189737,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "宇都母知神社入口",
+      "lat": 35.39364907,
+      "lng": 139.42080462,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "宝泉寺",
+      "lat": 35.3830125,
+      "lng": 139.43300726,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "宮の腰",
+      "lat": 35.40346283,
+      "lng": 139.43675662,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "宮下",
+      "lat": 35.4087765,
+      "lng": 139.43143817,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘22",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "宮原",
+      "lat": 35.39671197,
+      "lng": 139.40801214,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "宮原中央",
+      "lat": 35.39435631,
+      "lng": 139.4064734,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "宮原南",
+      "lat": 35.39174565,
+      "lng": 139.40491606,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "富士見台",
+      "lat": 35.36983939,
+      "lng": 139.46792477,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善04",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "寿照寺前",
+      "lat": 35.38069812,
+      "lng": 139.4483473,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        },
+        {
+          "name": "湘21",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "小出一本松",
+      "lat": 35.37322574,
+      "lng": 139.43022382,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "小塚",
+      "lat": 35.34010231,
+      "lng": 139.50388794,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "N6",
+          "classCode": "1"
+        },
+        {
+          "name": "N61",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "小糸",
+      "lat": 35.36045969,
+      "lng": 139.4449383,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "辻23",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "山王神社前",
+      "lat": 35.34630545,
+      "lng": 139.49044533,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "船32",
+          "classCode": "1"
+        },
+        {
+          "name": "船33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "山谷",
+      "lat": 35.40708269,
+      "lng": 139.44495986,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "工業団地入口",
+      "lat": 35.39428015,
+      "lng": 139.45148352,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        },
+        {
+          "name": "湘13",
+          "classCode": "1"
+        },
+        {
+          "name": "湘15",
+          "classCode": "1"
+        },
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘22",
+          "classCode": "1"
+        },
+        {
+          "name": "湘23",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "市営住宅前",
+      "lat": 35.38379948,
+      "lng": 139.43839299,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "弁天前",
+      "lat": 35.36462615,
+      "lng": 139.45390368,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "引地橋",
+      "lat": 35.34738803,
+      "lng": 139.46678874,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻31",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "弥勒寺",
+      "lat": 35.34043518,
+      "lng": 139.49819605,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "N6",
+          "classCode": "1"
+        },
+        {
+          "name": "N61",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "御所ヶ谷橋",
+      "lat": 35.34224404,
+      "lng": 139.49303785,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤102",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "御所見中学校前",
+      "lat": 35.40300929,
+      "lng": 139.42101895,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "御所見小学校前",
+      "lat": 35.40282302,
+      "lng": 139.41593903,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "御所見市民センター前",
+      "lat": 35.40395349,
+      "lng": 139.41741675,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "慈眼寺",
+      "lat": 35.35100898,
+      "lng": 139.50295944,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤60",
+          "classCode": "1"
+        },
+        {
+          "name": "船30",
+          "classCode": "1"
+        },
+        {
+          "name": "船31",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "慶応中高等部前",
+      "lat": 35.3864649,
+      "lng": 139.4266551,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘23",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        },
+        {
+          "name": "湘25",
+          "classCode": "1"
+        },
+        {
+          "name": "湘28",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "慶応中高降車場",
+      "lat": 35.38673332,
+      "lng": 139.42829111,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "慶応大学",
+      "lat": 35.38995593,
+      "lng": 139.43154117,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘23",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        },
+        {
+          "name": "湘25",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "慶応大学本館前",
+      "lat": 35.38776099,
+      "lng": 139.4284486,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘23",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        },
+        {
+          "name": "湘25",
+          "classCode": "1"
+        },
+        {
+          "name": "湘28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "打戻大仲",
+      "lat": 35.39318551,
+      "lng": 139.4162355,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "文化体育館前",
+      "lat": 35.38891927,
+      "lng": 139.44563127,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘15",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "新田",
+      "lat": 35.36943192,
+      "lng": 139.48312859,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "新町一丁目",
+      "lat": 35.33724986,
+      "lng": 139.45238088,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "新町三丁目",
+      "lat": 35.33771315,
+      "lng": 139.46143433,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "新町二丁目",
+      "lat": 35.33743801,
+      "lng": 139.45578923,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "日本精工前",
+      "lat": 35.33855617,
+      "lng": 139.47758267,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤01",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "日本精工前",
+      "lat": 35.33993517,
+      "lng": 139.47770769,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "藤04",
+          "classCode": "1"
+        },
+        {
+          "name": "藤06",
+          "classCode": "1"
+        },
+        {
+          "name": "F9",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "日本精工前",
+      "lat": 35.33993517,
+      "lng": 139.47770769,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤04",
+          "classCode": "1"
+        },
+        {
+          "name": "藤06",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "日本精工北門",
+      "lat": 35.34277455,
+      "lng": 139.47661922,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "明治中学校前",
+      "lat": 35.34177779,
+      "lng": 139.4543583,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻31",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "明治小学校前",
+      "lat": 35.34896246,
+      "lng": 139.45919801,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "有藤",
+      "lat": 35.35359591,
+      "lng": 139.44357161,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "本町小学校前",
+      "lat": 35.34533679,
+      "lng": 139.47982121,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "本町消防出張所前",
+      "lat": 35.34786013,
+      "lng": 139.48133248,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "村岡",
+      "lat": 35.34163919,
+      "lng": 139.49745611,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤60",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "村岡東一丁目",
+      "lat": 35.33807532,
+      "lng": 139.5037185,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "F6",
+          "classCode": "1"
+        },
+        {
+          "name": "F65",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "村岡東二丁目",
+      "lat": 35.34047311,
+      "lng": 139.50452457,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "F6",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "東京ラヂエーター前",
+      "lat": 35.3847906,
+      "lng": 139.44794865,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "東山田",
+      "lat": 35.40696254,
+      "lng": 139.44192784,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "東橋",
+      "lat": 35.34038067,
+      "lng": 139.49445632,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "N6",
+          "classCode": "1"
+        },
+        {
+          "name": "N61",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "東谷",
+      "lat": 35.39814659,
+      "lng": 139.46248882,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長41",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "松葉",
+      "lat": 35.41412701,
+      "lng": 139.41768877,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "柄沢",
+      "lat": 35.35290864,
+      "lng": 139.49861225,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤60",
+          "classCode": "1"
+        },
+        {
+          "name": "船30",
+          "classCode": "1"
+        },
+        {
+          "name": "船31",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "柄沢十字路",
+      "lat": 35.35472096,
+      "lng": 139.50151346,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤60",
+          "classCode": "1"
+        },
+        {
+          "name": "船30",
+          "classCode": "1"
+        },
+        {
+          "name": "船31",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "柄沢大上",
+      "lat": 35.3544898,
+      "lng": 139.4977751,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "船33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "柄沢橋",
+      "lat": 35.34881409,
+      "lng": 139.49516108,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤60",
+          "classCode": "1"
+        },
+        {
+          "name": "船32",
+          "classCode": "1"
+        },
+        {
+          "name": "船33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "柄沢神社入口",
+      "lat": 35.35159154,
+      "lng": 139.49656988,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "船33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "根下",
+      "lat": 35.38527493,
+      "lng": 139.4181591,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "桐ヶ谷",
+      "lat": 35.39036548,
+      "lng": 139.45992263,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        },
+        {
+          "name": "湘21",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "桐原公園前",
+      "lat": 35.38859572,
+      "lng": 139.45386923,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "湘13",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "桐原四辻",
+      "lat": 35.3923633,
+      "lng": 139.45228959,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘13",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "桐原緑道",
+      "lat": 35.38669058,
+      "lng": 139.45501915,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘13",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "梅ヶ枝通り",
+      "lat": 35.34268429,
+      "lng": 139.46186939,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻31",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "榎戸",
+      "lat": 35.39261216,
+      "lng": 139.41511079,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "水道みち下",
+      "lat": 35.35917406,
+      "lng": 139.483106,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　02系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "汲田",
+      "lat": 35.34171149,
+      "lng": 139.4571467,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻31",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "渋沢台",
+      "lat": 35.3658121,
+      "lng": 139.47894749,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　01系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "渋谷ノ里",
+      "lat": 35.4065846,
+      "lng": 139.4614588,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長41",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "渋谷ヶ原",
+      "lat": 35.40069337,
+      "lng": 139.46179745,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長41",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "渡内",
+      "lat": 35.34948086,
+      "lng": 139.50368355,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "船30",
+          "classCode": "1"
+        },
+        {
+          "name": "船31",
+          "classCode": "1"
+        },
+        {
+          "name": "船32",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "渡内中央",
+      "lat": 35.34850296,
+      "lng": 139.50513817,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "F6",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "渡内二丁目",
+      "lat": 35.34783276,
+      "lng": 139.50475208,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "F6",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "渡内会館入口",
+      "lat": 35.34672236,
+      "lng": 139.50502456,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "F6",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "渡内第三会館前",
+      "lat": 35.349787,
+      "lng": 139.50664919,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "船30",
+          "classCode": "1"
+        },
+        {
+          "name": "船31",
+          "classCode": "1"
+        },
+        {
+          "name": "船32",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "湘南アイパーク",
+      "lat": 35.34010774,
+      "lng": 139.51038283,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "N6",
+          "classCode": "1"
+        },
+        {
+          "name": "N61",
+          "classCode": "1"
+        },
+        {
+          "name": "N63",
+          "classCode": "1"
+        },
+        {
+          "name": "F65",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "湘南ライフタウン",
+      "lat": 35.37545689,
+      "lng": 139.43329092,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        },
+        {
+          "name": "茅03",
+          "classCode": "1"
+        },
+        {
+          "name": "湘12",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        },
+        {
+          "name": "湘21",
+          "classCode": "1"
+        },
+        {
+          "name": "辻23",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "湘南台",
+      "lat": 35.34501741,
+      "lng": 139.46436867,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻31",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "湘南台住宅前",
+      "lat": 35.39257534,
+      "lng": 139.46398488,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        },
+        {
+          "name": "湘21",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "湘南台駅東口",
+      "lat": 35.39640888,
+      "lng": 139.46699467,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘07",
+          "classCode": "1"
+        },
+        {
+          "name": "湘27",
+          "classCode": "1"
+        },
+        {
+          "name": "湘29",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "湘12",
+          "classCode": "1"
+        },
+        {
+          "name": "湘13",
+          "classCode": "1"
+        },
+        {
+          "name": "湘14",
+          "classCode": "1"
+        },
+        {
+          "name": "湘15",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "湘南台駅西口",
+      "lat": 35.39605809,
+      "lng": 139.46600501,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        },
+        {
+          "name": "湘13",
+          "classCode": "1"
+        },
+        {
+          "name": "湘15",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        },
+        {
+          "name": "湘18",
+          "classCode": "1"
+        },
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "湘21",
+          "classCode": "1"
+        },
+        {
+          "name": "湘22",
+          "classCode": "1"
+        },
+        {
+          "name": "湘23",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        },
+        {
+          "name": "湘25",
+          "classCode": "1"
+        },
+        {
+          "name": "湘28",
+          "classCode": "1"
+        },
+        {
+          "name": "長41",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "湘南高校前",
+      "lat": 35.34659183,
+      "lng": 139.47258323,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "湘南高校通り",
+      "lat": 35.34322892,
+      "lng": 139.47521046,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "滝の沢",
+      "lat": 35.37159712,
+      "lng": 139.4400533,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "辻23",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "滝の沢不動前",
+      "lat": 35.37251315,
+      "lng": 139.43674602,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "茅03",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "辻23",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "滝の沢小学校前",
+      "lat": 35.37054102,
+      "lng": 139.43804123,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "茅03",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "烏森公園前",
+      "lat": 35.34199125,
+      "lng": 139.47314173,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "獺郷",
+      "lat": 35.38914834,
+      "lng": 139.40404233,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "獺郷公民館前",
+      "lat": 35.38820431,
+      "lng": 139.40654225,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "用田",
+      "lat": 35.40392454,
+      "lng": 139.41533789,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "用田神社入口",
+      "lat": 35.40891505,
+      "lng": 139.41466642,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "用田辻",
+      "lat": 35.40425887,
+      "lng": 139.41293931,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "田方",
+      "lat": 35.37930024,
+      "lng": 139.44395015,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        },
+        {
+          "name": "湘21",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "白旗交差点",
+      "lat": 35.34763817,
+      "lng": 139.47839023,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "白旗神社前",
+      "lat": 35.34971127,
+      "lng": 139.47869799,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "相生町",
+      "lat": 35.34074986,
+      "lng": 139.48121989,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "藤04",
+          "classCode": "1"
+        },
+        {
+          "name": "藤06",
+          "classCode": "1"
+        },
+        {
+          "name": "F9",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "相生町",
+      "lat": 35.34074986,
+      "lng": 139.48121989,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "戸81",
+          "classCode": "1"
+        },
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤04",
+          "classCode": "1"
+        },
+        {
+          "name": "藤06",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤56",
+          "classCode": "1"
+        },
+        {
+          "name": "船32",
+          "classCode": "1"
+        },
+        {
+          "name": "船33",
+          "classCode": "1"
+        },
+        {
+          "name": "船65",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "県営サンハイツ渋谷前",
+      "lat": 35.42822943,
+      "lng": 139.46630081,
+      "operator": "大和市",
+      "routes": [
+        {
+          "name": "のろっと南部ルート",
+          "classCode": "3"
+        }
+      ]
+    },
+    {
+      "name": "矢尻",
+      "lat": 35.37777147,
+      "lng": 139.4391194,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘12",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        },
+        {
+          "name": "湘21",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "矢崎",
+      "lat": 35.38468732,
+      "lng": 139.42339416,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "石原谷",
+      "lat": 35.35758468,
+      "lng": 139.46764728,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善02",
+          "classCode": "1"
+        },
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "石川",
+      "lat": 35.37725459,
+      "lng": 139.45195984,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "石川中村",
+      "lat": 35.38088434,
+      "lng": 139.45547199,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘12",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "石川六丁目",
+      "lat": 35.39178883,
+      "lng": 139.45026698,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘13",
+          "classCode": "1"
+        },
+        {
+          "name": "湘15",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "石川山田",
+      "lat": 35.38460233,
+      "lng": 139.4567096,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘12",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "湘17",
+          "classCode": "1"
+        },
+        {
+          "name": "湘21",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "石川橋",
+      "lat": 35.37409751,
+      "lng": 139.4531084,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "湘12",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "神台公園前",
+      "lat": 35.3404227,
+      "lng": 139.4473477,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻07",
+          "classCode": "1"
+        },
+        {
+          "name": "辻31",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "辻01",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "神明町",
+      "lat": 35.33826862,
+      "lng": 139.47228812,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤01",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "秋葉台小学校",
+      "lat": 35.38977041,
+      "lng": 139.43993835,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "立石ハイツB棟",
+      "lat": 35.36069164,
+      "lng": 139.48136726,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　02系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "立石ハイツE棟",
+      "lat": 35.36109964,
+      "lng": 139.4808898,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　02系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "立石公園",
+      "lat": 35.36009005,
+      "lng": 139.48205026,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　02系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "立石市民の家",
+      "lat": 35.3634885,
+      "lng": 139.4795827,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　01系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "笹久保",
+      "lat": 35.39867621,
+      "lng": 139.43426831,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘20",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "緑ヶ丘",
+      "lat": 35.35560931,
+      "lng": 139.49237775,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "戸81",
+          "classCode": "1"
+        },
+        {
+          "name": "藤54",
+          "classCode": "1"
+        },
+        {
+          "name": "藤55",
+          "classCode": "1"
+        },
+        {
+          "name": "藤56",
+          "classCode": "1"
+        },
+        {
+          "name": "船65",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "羽根沢",
+      "lat": 35.36431567,
+      "lng": 139.44037698,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "羽鳥",
+      "lat": 35.34718491,
+      "lng": 139.46150559,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "羽鳥一丁目",
+      "lat": 35.34411987,
+      "lng": 139.44880291,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻07",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "羽鳥山",
+      "lat": 35.34413812,
+      "lng": 139.45525605,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "羽鳥郵便局前",
+      "lat": 35.34150605,
+      "lng": 139.4513163,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻31",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "老人センター",
+      "lat": 35.35415723,
+      "lng": 139.46246912,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善02",
+          "classCode": "1"
+        },
+        {
+          "name": "辻31",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "聖園女学院前",
+      "lat": 35.35547975,
+      "lng": 139.47802641,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "舟地蔵",
+      "lat": 35.35776606,
+      "lng": 139.4529035,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "花の木",
+      "lat": 35.35194013,
+      "lng": 139.474107,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "茅山",
+      "lat": 35.36128398,
+      "lng": 139.46792475,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善02",
+          "classCode": "1"
+        },
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "善05",
+          "classCode": "1"
+        },
+        {
+          "name": "善06",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "荏原工業団地",
+      "lat": 35.35827542,
+      "lng": 139.46641377,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "荒井",
+      "lat": 35.3890438,
+      "lng": 139.41436947,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "菖蒲沢",
+      "lat": 35.39832446,
+      "lng": 139.43066579,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘20",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "菖蒲沢団地",
+      "lat": 35.399965,
+      "lng": 139.44579384,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘22",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "落合南",
+      "lat": 35.41509064,
+      "lng": 139.43836981,
+      "operator": "綾瀬市",
+      "routes": [
+        {
+          "name": "3号車　市役所→上土棚団地→市役所",
+          "classCode": "3"
+        }
+      ]
+    },
+    {
+      "name": "落合南",
+      "lat": 35.41509064,
+      "lng": 139.43836981,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "00",
+          "classCode": "1"
+        },
+        {
+          "name": "長43",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "葛原",
+      "lat": 35.40688853,
+      "lng": 139.43950661,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘22",
+          "classCode": "1"
+        },
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "葛野",
+      "lat": 35.40252681,
+      "lng": 139.42813219,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡10号",
+      "lat": 35.34849115,
+      "lng": 139.49884581,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡11号",
+      "lat": 35.34741654,
+      "lng": 139.49776365,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡12号",
+      "lat": 35.34698103,
+      "lng": 139.49730895,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡13号",
+      "lat": 35.34572227,
+      "lng": 139.49602487,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡14号",
+      "lat": 35.34474099,
+      "lng": 139.49477496,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤102",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡15号",
+      "lat": 35.34423881,
+      "lng": 139.49359005,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤102",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡1号",
+      "lat": 35.34386078,
+      "lng": 139.49262512,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤102",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡2号",
+      "lat": 35.34389742,
+      "lng": 139.4912194,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤102",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡3号",
+      "lat": 35.34445318,
+      "lng": 139.49080889,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤102",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡4号",
+      "lat": 35.3448337,
+      "lng": 139.4916616,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤102",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡5号",
+      "lat": 35.34541782,
+      "lng": 139.49298761,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤102",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡6号",
+      "lat": 35.34601776,
+      "lng": 139.49413891,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤102",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡7号",
+      "lat": 35.34662382,
+      "lng": 139.4956188,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡8号",
+      "lat": 35.34736958,
+      "lng": 139.49670733,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡9号",
+      "lat": 35.34898994,
+      "lng": 139.4973323,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤が岡中央",
+      "lat": 35.34552867,
+      "lng": 139.49524104,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤60",
+          "classCode": "1"
+        },
+        {
+          "name": "藤102",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤ヶ岡中学校前",
+      "lat": 35.34903916,
+      "lng": 139.49998102,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤60",
+          "classCode": "1"
+        },
+        {
+          "name": "船31",
+          "classCode": "1"
+        },
+        {
+          "name": "船32",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤沢ジャンボゴルフ前",
+      "lat": 35.39063178,
+      "lng": 139.43740436,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘23",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤沢・綾瀬ふれあいの杜",
+      "lat": 35.41333215,
+      "lng": 139.44195018,
+      "operator": "綾瀬市",
+      "routes": [
+        {
+          "name": "3号車　市役所→上土棚団地→市役所",
+          "classCode": "3"
+        }
+      ]
+    },
+    {
+      "name": "藤沢・綾瀬ふれあいの杜",
+      "lat": 35.41333215,
+      "lng": 139.44195018,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "00",
+          "classCode": "1"
+        },
+        {
+          "name": "長43",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤沢公民館前",
+      "lat": 35.34748103,
+      "lng": 139.48326453,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤沢小学校前",
+      "lat": 35.34423171,
+      "lng": 139.48449189,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "戸81",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤56",
+          "classCode": "1"
+        },
+        {
+          "name": "船32",
+          "classCode": "1"
+        },
+        {
+          "name": "船33",
+          "classCode": "1"
+        },
+        {
+          "name": "船65",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤沢市民病院",
+      "lat": 35.35024902,
+      "lng": 139.48190605,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤沢橋",
+      "lat": 35.34695284,
+      "lng": 139.48833189,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "戸81",
+          "classCode": "1"
+        },
+        {
+          "name": "藤54",
+          "classCode": "1"
+        },
+        {
+          "name": "藤55",
+          "classCode": "1"
+        },
+        {
+          "name": "藤56",
+          "classCode": "1"
+        },
+        {
+          "name": "船32",
+          "classCode": "1"
+        },
+        {
+          "name": "船33",
+          "classCode": "1"
+        },
+        {
+          "name": "船65",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤沢湘南台病院前",
+      "lat": 35.41621247,
+      "lng": 139.47162953,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "い08",
+          "classCode": "1"
+        },
+        {
+          "name": "長54",
+          "classCode": "1"
+        },
+        {
+          "name": "長55",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤沢翔陵高校前",
+      "lat": 35.35959065,
+      "lng": 139.47860637,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤沢翔陵高校前",
+      "lat": 35.35959065,
+      "lng": 139.47860637,
+      "operator": "善行地区郷土づくり推進会議",
+      "routes": [
+        {
+          "name": "のりあい善行　02系統",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤沢駅北口",
+      "lat": 35.33937123,
+      "lng": 139.48738964,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "戸81",
+          "classCode": "1"
+        },
+        {
+          "name": "藤01",
+          "classCode": "1"
+        },
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤04",
+          "classCode": "1"
+        },
+        {
+          "name": "藤06",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤15",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤54",
+          "classCode": "1"
+        },
+        {
+          "name": "藤55",
+          "classCode": "1"
+        },
+        {
+          "name": "藤56",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        },
+        {
+          "name": "藤60",
+          "classCode": "1"
+        },
+        {
+          "name": "藤101",
+          "classCode": "1"
+        },
+        {
+          "name": "藤102",
+          "classCode": "1"
+        },
+        {
+          "name": "藤103",
+          "classCode": "1"
+        },
+        {
+          "name": "船32",
+          "classCode": "1"
+        },
+        {
+          "name": "船33",
+          "classCode": "1"
+        },
+        {
+          "name": "船65",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "藤沢駅北口",
+      "lat": 35.33937123,
+      "lng": 139.48738964,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "N6",
+          "classCode": "1"
+        },
+        {
+          "name": "N61",
+          "classCode": "1"
+        },
+        {
+          "name": "藤04",
+          "classCode": "1"
+        },
+        {
+          "name": "藤06",
+          "classCode": "1"
+        },
+        {
+          "name": "F9",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "西俣野",
+      "lat": 35.37831961,
+      "lng": 139.48925315,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘27",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "西用田",
+      "lat": 35.40500757,
+      "lng": 139.4096438,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長16",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "西菖蒲沢",
+      "lat": 35.40014848,
+      "lng": 139.42641628,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘20",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "西葛原",
+      "lat": 35.40285859,
+      "lng": 139.42468488,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "西谷",
+      "lat": 35.38172659,
+      "lng": 139.46909601,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "六03",
+          "classCode": "1"
+        },
+        {
+          "name": "六05",
+          "classCode": "1"
+        },
+        {
+          "name": "六07",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "西高校前",
+      "lat": 35.35626559,
+      "lng": 139.4426656,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "辻23",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "観音坂下",
+      "lat": 35.35231353,
+      "lng": 139.46176669,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻31",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "諸之木",
+      "lat": 35.38773381,
+      "lng": 139.43279112,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "谷戸入口",
+      "lat": 35.4069532,
+      "lng": 139.43259844,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘22",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "赤坂下",
+      "lat": 35.34293734,
+      "lng": 139.49661757,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤60",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "辻堂入口",
+      "lat": 35.34677979,
+      "lng": 139.4551858,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤07",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "辻堂駅北口",
+      "lat": 35.33767549,
+      "lng": 139.44776291,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "辻07",
+          "classCode": "1"
+        },
+        {
+          "name": "辻31",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "辻01",
+          "classCode": "1"
+        },
+        {
+          "name": "辻09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        },
+        {
+          "name": "辻23",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻28",
+          "classCode": "1"
+        },
+        {
+          "name": "辻29",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "遊行寺前",
+      "lat": 35.34651785,
+      "lng": 139.48575348,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "遊行寺坂上",
+      "lat": 35.35246247,
+      "lng": 139.49085562,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "戸81",
+          "classCode": "1"
+        },
+        {
+          "name": "藤54",
+          "classCode": "1"
+        },
+        {
+          "name": "藤55",
+          "classCode": "1"
+        },
+        {
+          "name": "藤56",
+          "classCode": "1"
+        },
+        {
+          "name": "船65",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "遊行通り四丁目",
+      "lat": 35.34171264,
+      "lng": 139.48900316,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤10",
+          "classCode": "1"
+        },
+        {
+          "name": "藤34",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤36",
+          "classCode": "1"
+        },
+        {
+          "name": "藤38",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        },
+        {
+          "name": "藤46",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        },
+        {
+          "name": "藤54",
+          "classCode": "1"
+        },
+        {
+          "name": "藤55",
+          "classCode": "1"
+        },
+        {
+          "name": "藤58",
+          "classCode": "1"
+        },
+        {
+          "name": "藤59",
+          "classCode": "1"
+        },
+        {
+          "name": "藤08",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "遠藤",
+      "lat": 35.39203969,
+      "lng": 139.44249562,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        },
+        {
+          "name": "湘19",
+          "classCode": "1"
+        },
+        {
+          "name": "湘23",
+          "classCode": "1"
+        },
+        {
+          "name": "湘24",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "遠藤中原",
+      "lat": 35.3788183,
+      "lng": 139.43587101,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "遠藤北原",
+      "lat": 35.38728075,
+      "lng": 139.43947342,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "遠藤打越",
+      "lat": 35.39092787,
+      "lng": 139.42903022,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "遠藤松原",
+      "lat": 35.38216077,
+      "lng": 139.43780194,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤39",
+          "classCode": "1"
+        },
+        {
+          "name": "湘11",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "遠藤永山",
+      "lat": 35.37523573,
+      "lng": 139.44315443,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘12",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "遠藤西の谷",
+      "lat": 35.39244581,
+      "lng": 139.42505409,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘19",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "鍛冶山",
+      "lat": 35.37879593,
+      "lng": 139.45480458,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘12",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "長坂上",
+      "lat": 35.4170561,
+      "lng": 139.43523135,
+      "operator": "綾瀬市",
+      "routes": [
+        {
+          "name": "3号車　市役所→上土棚団地→市役所",
+          "classCode": "3"
+        }
+      ]
+    },
+    {
+      "name": "長坂上",
+      "lat": 35.4170561,
+      "lng": 139.43523135,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "00",
+          "classCode": "1"
+        },
+        {
+          "name": "長43",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "長後市民センター前",
+      "lat": 35.41161125,
+      "lng": 139.460766,
+      "operator": "綾瀬市",
+      "routes": [
+        {
+          "name": "4号車　市役所→長後駅西口",
+          "classCode": "3"
+        }
+      ]
+    },
+    {
+      "name": "長後市民センター前",
+      "lat": 35.41161125,
+      "lng": 139.460766,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長12",
+          "classCode": "1"
+        },
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        },
+        {
+          "name": "長41",
+          "classCode": "1"
+        },
+        {
+          "name": "長43",
+          "classCode": "1"
+        },
+        {
+          "name": "長45",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "長後駅",
+      "lat": 35.41219443,
+      "lng": 139.46589071,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "い08",
+          "classCode": "1"
+        },
+        {
+          "name": "長54",
+          "classCode": "1"
+        },
+        {
+          "name": "長55",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "長後駅西口",
+      "lat": 35.4121544,
+      "lng": 139.46506354,
+      "operator": "綾瀬市",
+      "routes": [
+        {
+          "name": "4号車　市役所→長後駅西口",
+          "classCode": "3"
+        }
+      ]
+    },
+    {
+      "name": "長後駅西口",
+      "lat": 35.4121544,
+      "lng": 139.46506354,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "長12",
+          "classCode": "1"
+        },
+        {
+          "name": "長16",
+          "classCode": "1"
+        },
+        {
+          "name": "長22",
+          "classCode": "1"
+        },
+        {
+          "name": "長24",
+          "classCode": "1"
+        },
+        {
+          "name": "長33",
+          "classCode": "1"
+        },
+        {
+          "name": "長35",
+          "classCode": "1"
+        },
+        {
+          "name": "長36",
+          "classCode": "1"
+        },
+        {
+          "name": "長37",
+          "classCode": "1"
+        },
+        {
+          "name": "長38",
+          "classCode": "1"
+        },
+        {
+          "name": "長39",
+          "classCode": "1"
+        },
+        {
+          "name": "長41",
+          "classCode": "1"
+        },
+        {
+          "name": "長43",
+          "classCode": "1"
+        },
+        {
+          "name": "長45",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "関東航空前",
+      "lat": 35.35597042,
+      "lng": 139.46751591,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善02",
+          "classCode": "1"
+        },
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤35",
+          "classCode": "1"
+        },
+        {
+          "name": "藤45",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "隆昌院前",
+      "lat": 35.35018646,
+      "lng": 139.49764729,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤60",
+          "classCode": "1"
+        },
+        {
+          "name": "船31",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "雲昌寺",
+      "lat": 35.386112,
+      "lng": 139.47722325,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘27",
+          "classCode": "1"
+        },
+        {
+          "name": "藤51",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "養老院前",
+      "lat": 35.34143475,
+      "lng": 139.47950395,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "駒寄",
+      "lat": 35.3703289,
+      "lng": 139.4434267,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善03",
+          "classCode": "1"
+        },
+        {
+          "name": "藤12",
+          "classCode": "1"
+        },
+        {
+          "name": "藤13",
+          "classCode": "1"
+        },
+        {
+          "name": "湘16",
+          "classCode": "1"
+        },
+        {
+          "name": "辻23",
+          "classCode": "1"
+        },
+        {
+          "name": "辻24",
+          "classCode": "1"
+        },
+        {
+          "name": "辻26",
+          "classCode": "1"
+        },
+        {
+          "name": "辻33",
+          "classCode": "1"
+        },
+        {
+          "name": "辻34",
+          "classCode": "1"
+        },
+        {
+          "name": "辻35",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "駒寄住宅北",
+      "lat": 35.37317122,
+      "lng": 139.44629007,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "湘12",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "駒寄小学校前",
+      "lat": 35.36920878,
+      "lng": 139.44874492,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "善03",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "高山",
+      "lat": 35.34131502,
+      "lng": 139.46353922,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "藤03",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "高山車庫",
+      "lat": 35.33931523,
+      "lng": 139.46292507,
+      "operator": "神奈川中央交通（株）",
+      "routes": [
+        {
+          "name": "藤01",
+          "classCode": "1"
+        },
+        {
+          "name": "藤02",
+          "classCode": "1"
+        },
+        {
+          "name": "辻09",
+          "classCode": "1"
+        },
+        {
+          "name": "藤21",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "高谷",
+      "lat": 35.34221265,
+      "lng": 139.50564951,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "F6",
+          "classCode": "1"
+        }
+      ]
+    },
+    {
+      "name": "高谷小学校入口",
+      "lat": 35.34362028,
+      "lng": 139.50630808,
+      "operator": "（株）江ノ電バス",
+      "routes": [
+        {
+          "name": "F6",
+          "classCode": "1"
+        }
+      ]
+    }
+  ]
+}

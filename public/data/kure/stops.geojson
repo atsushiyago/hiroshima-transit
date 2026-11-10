@@ -1,0 +1,7966 @@
+{
+  "type": "FeatureCollection",
+  "name": "kure_bus_stops",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5957637,
+          34.2401179
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "休山新道東 (神田神社前)",
+        "operator": "呉市営バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 1582596807
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5603877,
+          34.2324297
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "子規句碑前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 3398972737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5607619,
+          34.2325655
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "子規句碑前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 3398972738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5575714,
+          34.22805
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原中学校前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 3398972739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5575963,
+          34.2282695
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原中学校前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 3398972740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5815016,
+          34.2098468
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "浜田",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 4412720798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5840808,
+          34.2117215
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "大崎",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 4412720898
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5912071,
+          34.2227607
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東灘",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 4412722489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5814284,
+          34.2097418
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "浜田",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 4412723601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5903632,
+          34.2210978
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "灘",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 4412734489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5580746,
+          34.245264
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 7010584858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5581812,
+          34.2454037
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 7010584859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5582464,
+          34.245523
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 7010584860
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5583529,
+          34.2449227
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 7010584861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5301418,
+          34.2566804
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "神賀橋",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8398767458
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.599765,
+          34.2361463
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀駅前",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8520140616
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.556339,
+          34.2415167
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "大和ミュージアム・ゆめタウン",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8524105911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.556037,
+          34.2417716
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "大和ミュージアム・ゆめタウン",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8524105913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5592897,
+          34.2449606
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8524984538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5581629,
+          34.2453847
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8524984539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5582553,
+          34.2455419
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8524984540
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5580676,
+          34.245251
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8524984541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5580423,
+          34.2449379
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8524984542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5580687,
+          34.245272
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8524984543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5593271,
+          34.2451299
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "おりば14",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8524984549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5587504,
+          34.2455274
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8543617354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5577649,
+          34.2462718
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8543617360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5598034,
+          34.2448003
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "おりば16",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 8543617361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5843994,
+          34.2533651
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西畑",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9371443282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6144347,
+          34.2306738
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中国労災病院",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.614368,
+          34.2306571
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中国労災病院",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5802931,
+          34.2661749
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中惣付",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5803525,
+          34.2662527
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中惣付",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823670
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5799355,
+          34.2644645
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "惣付",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5800265,
+          34.2644097
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "惣付",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5783483,
+          34.2619486
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "涼ミ岩",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5783695,
+          34.2620031
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "涼ミ岩",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5816394,
+          34.2608072
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西谷",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5816193,
+          34.26042
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西谷",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5827014,
+          34.2594885
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "望地",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5827501,
+          34.2594357
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "望地",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5824362,
+          34.2555206
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "上平原町",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5824862,
+          34.2555872
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "上平原町",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5802379,
+          34.2552483
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "平原水源池前",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823681
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.580303,
+          34.2552539
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "平原水源池前",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411823682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6141679,
+          34.2326902
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "新広駅",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5968358,
+          34.2378727
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東町",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829698
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5968025,
+          34.2375727
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東町",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5956193,
+          34.2353229
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西町",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5957527,
+          34.2355396
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西町",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5989144,
+          34.2335055
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀小学校",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5955528,
+          34.2326566
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "延崎",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5957028,
+          34.2321899
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "延崎",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5953863,
+          34.2301735
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀港",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5953529,
+          34.2308901
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀港",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5938364,
+          34.2291236
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "塩谷住宅",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5937864,
+          34.2290569
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "塩谷住宅",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5935365,
+          34.2273904
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "塩谷",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5935199,
+          34.2272404
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "塩谷",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829710
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.591187,
+          34.2226576
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東灘",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5903538,
+          34.221091
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "灘",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5840047,
+          34.2116919
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "大崎",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829713
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5788553,
+          34.2080756
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "大入",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5784054,
+          34.2075923
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "大入",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5741559,
+          34.2038926
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "大冠中学校前",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5739559,
+          34.2037259
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "大冠中学校前",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.56704,
+          34.2003762
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "冠崎",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5657401,
+          34.2010594
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "冠崎西",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5658234,
+          34.2009928
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "冠崎西",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6158089,
+          34.2322754
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "広市民センター",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829804
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6156129,
+          34.2323364
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "広市民センター",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5828702,
+          34.2531364
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西畑",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9411829810
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6151845,
+          34.2330235
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "広市民センター",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412071809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6152484,
+          34.2332707
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "広市民センター",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412071810
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5979357,
+          34.2381727
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀海岸通",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412071811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.598169,
+          34.2383393
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀海岸通",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412071812
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5721373,
+          34.2488544
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通五丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412071813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5712541,
+          34.2487711
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通五丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412071814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5691333,
+          34.2472753
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通四丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412071815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5688793,
+          34.2473703
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通四丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412071816
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5742371,
+          34.249921
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通六丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5741538,
+          34.2496044
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通六丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5790867,
+          34.2509377
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通八丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5795699,
+          34.2511376
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通八丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5827676,
+          34.2529708
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西畑",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5827863,
+          34.2529708
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西畑",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6009688,
+          34.2368562
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀駅前",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6001444,
+          34.2365645
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀駅前",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.597002,
+          34.2477227
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "原",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5972203,
+          34.2478347
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "原",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5932355,
+          34.2507713
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中畑",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086907
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5931188,
+          34.2506379
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中畑",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5932688,
+          34.2507546
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中畑",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086909
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5842528,
+          34.2533375
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西畑",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5739038,
+          34.249521
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通六丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5741538,
+          34.249871
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通六丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086912
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5687214,
+          34.2472138
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通四丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5691543,
+          34.2472879
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通四丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5673712,
+          34.245888
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通三丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5669053,
+          34.2450942
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉本通三丁目",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.563338,
+          34.2507374
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "体育館前",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5634527,
+          34.2504824
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "体育館前",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.558974,
+          34.2450831
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5652715,
+          34.2438215
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "四ツ道路",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5655215,
+          34.2437382
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "四ツ道路",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5973189,
+          34.2425889
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "郷",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5970689,
+          34.2432055
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "郷",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5970855,
+          34.2432055
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "郷",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5973022,
+          34.2426722
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "郷",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6065851,
+          34.2352565
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "先小倉",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6064018,
+          34.2349565
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "先小倉",
+        "operator": "中国ジェイアールバス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9412086967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5634213,
+          34.2504708
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "体育館前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5633046,
+          34.2507374
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "体育館前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5791867,
+          34.2509377
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通８丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5795033,
+          34.2511376
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通８丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5828099,
+          34.2529753
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西畑",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5843748,
+          34.2533931
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西畑",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5930188,
+          34.2507046
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中畑",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5930522,
+          34.2509046
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中畑",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5969906,
+          34.2477234
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "原",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5972293,
+          34.2478344
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "原",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6005688,
+          34.2371562
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀駅前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6001655,
+          34.2366085
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀駅前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6008361,
+          34.2368684
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀駅前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6060185,
+          34.2350232
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "先小倉",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839315
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6065184,
+          34.2353065
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "先小倉",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416839316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6151619,
+          34.2330058
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "広市民センター",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6152348,
+          34.233273
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "広市民センター",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5973016,
+          34.2426889
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "郷",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5970516,
+          34.2432055
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "郷",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5580609,
+          34.2452578
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉駅前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5652548,
+          34.2438548
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "四道路・四ツ道路",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936733
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5654548,
+          34.2437049
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "四道路・四ツ道路",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5668695,
+          34.245027
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5673438,
+          34.2458884
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5690305,
+          34.2471605
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通４丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.568796,
+          34.2473247
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通４丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.574177,
+          34.2496211
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通６丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5743038,
+          34.2499543
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通６丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5449886,
+          34.211398
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "鍋桟橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5454368,
+          34.2098337
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉信警固屋支店前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5455534,
+          34.2102503
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉信警固屋支店前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5409422,
+          34.2001668
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋中学校",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936746
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5628105,
+          34.2427005
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中通１丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5630439,
+          34.242851
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中通１丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5652276,
+          34.2438226
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "四道路",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936751
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5655308,
+          34.2437474
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "四道路",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5673762,
+          34.2459141
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通３丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.566991,
+          34.2451514
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通３丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.568933,
+          34.2470632
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通４丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5687637,
+          34.2472866
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通４丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5712391,
+          34.2487623
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通５丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.572122,
+          34.2488467
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通５丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.576149,
+          34.2503877
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通７丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5767021,
+          34.2507589
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通７丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5792574,
+          34.2509549
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通８丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5795093,
+          34.2511199
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通８丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5978356,
+          34.2392059
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀海岸通",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936763
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5979824,
+          34.2380683
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀海岸通",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5980157,
+          34.2384849
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "阿賀海岸通",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6147563,
+          34.2328481
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "新広駅",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6176031,
+          34.2327358
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "二級橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6185031,
+          34.2321526
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "二級橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5594939,
+          34.2463083
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5610526,
+          34.2452174
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936822
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.544541,
+          34.207355
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋５丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5447001,
+          34.2075807
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋５丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.541138,
+          34.201615
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋市民センター",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5411308,
+          34.2021833
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋市民センター",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5441472,
+          34.2057074
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋ドック前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936830
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5442639,
+          34.2057741
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋ドック前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5740311,
+          34.2495689
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通６丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5743432,
+          34.2499667
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通６丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5458898,
+          34.2436545
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "クレイトンベイホテル",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5511893,
+          34.2442212
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "かもめ公園",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5514726,
+          34.2443545
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "かもめ公園",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5530391,
+          34.2460544
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "済生会呉病院",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5532557,
+          34.2461211
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "済生会呉病院",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936846
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5548555,
+          34.2476043
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "済生会呉病院北",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936847
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5587051,
+          34.2492708
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉共済病院",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5587051,
+          34.2490375
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉共済病院",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.556389,
+          34.2408883
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央桟橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936850
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5724542,
+          34.2436217
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "和庄登町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5723209,
+          34.243655
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "和庄登町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936852
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5741873,
+          34.2454048
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "和庄１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.574154,
+          34.2455215
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "和庄１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5762871,
+          34.2462714
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "溝路町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5763204,
+          34.2464881
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "溝路町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.577337,
+          34.247288
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "長迫町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5776536,
+          34.2476546
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "長迫町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5784201,
+          34.2503377
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "長迫小学校下",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5783034,
+          34.2501044
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "長迫小学校下",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936860
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.574537,
+          34.2513042
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉医師会病院",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5744537,
+          34.2512042
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉医師会病院",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936862
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5710207,
+          34.2512042
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東中央２丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5679771,
+          34.2525528
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央７丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5677875,
+          34.252354
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央７丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5646544,
+          34.2537871
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西片山町",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5645211,
+          34.2537704
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西片山町",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5633378,
+          34.2547703
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "プール前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5622712,
+          34.2553202
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "プール前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5596883,
+          34.2531339
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "山手橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5598597,
+          34.2531843
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "山手橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5588828,
+          34.2512333
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "大平橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5589399,
+          34.2510689
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "大平橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5566806,
+          34.2501235
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "三津田橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936874
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5567121,
+          34.2499783
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "三津田橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.55538,
+          34.2496347
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "三条４丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5555015,
+          34.2495453
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "三条４丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5660539,
+          34.2525796
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東片山町",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5661043,
+          34.2523873
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東片山町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5686533,
+          34.2538112
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "郷町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.568835,
+          34.2538021
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "郷町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936881
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5706773,
+          34.2544765
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東中央３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5700749,
+          34.2546207
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東中央３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5703065,
+          34.2545935
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東中央３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5720126,
+          34.2547292
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東中央４丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5726037,
+          34.2545372
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東中央４丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936886
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5753401,
+          34.2540695
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "伏原２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5757701,
+          34.2536873
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "伏原２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5772053,
+          34.2531331
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "伏原東",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5770897,
+          34.253067
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "伏原東",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936890
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5780867,
+          34.2522042
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "吾妻１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936891
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5781034,
+          34.2517042
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "吾妻１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5727661,
+          34.2602382
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "辰川",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5714537,
+          34.2573035
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "鉄管道路",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.572787,
+          34.2573133
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "鉄管道路",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5712566,
+          34.256119
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "植木屋筋",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5721564,
+          34.2560248
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "植木屋筋",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936897
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5683375,
+          34.2514707
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "明神橋",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936898
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5696806,
+          34.2515398
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "明神橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936899
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.570049,
+          34.251186
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "明神橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5679131,
+          34.251163
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央６丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5673543,
+          34.2504875
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央６丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5658712,
+          34.2494376
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉市役所前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.565662,
+          34.2483845
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉市役所前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5657852,
+          34.2482056
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉市役所前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5616654,
+          34.2490848
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西中央３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5618215,
+          34.2489209
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "西中央３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936907
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5650048,
+          34.2448214
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中通３丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5642885,
+          34.2451292
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中通３丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936909
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.563591,
+          34.2472457
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央３丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5632249,
+          34.2465469
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央３丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5623471,
+          34.246705
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936912
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5619924,
+          34.2467688
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5629848,
+          34.2440226
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中通２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.562855,
+          34.2439215
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中通２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5622825,
+          34.2459397
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.561855,
+          34.2453213
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5611229,
+          34.2453146
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5600099,
+          34.2474878
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉郵便局前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5596172,
+          34.2466712
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉郵便局前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5595885,
+          34.2464045
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中央１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.556321,
+          34.2694686
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "猿見橋",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.556471,
+          34.2695519
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "猿見橋",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936945
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5570544,
+          34.2684187
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "二河峡隧道",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.557071,
+          34.2685354
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "二河峡隧道",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5617543,
+          34.2601197
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "上二河町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5618049,
+          34.2572723
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "上二河町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5606589,
+          34.255758
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "上山手橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5608296,
+          34.2555836
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "上山手橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5612214,
+          34.2528871
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "二河公園",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.561138,
+          34.2536204
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "二河公園",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5262407,
+          34.2586859
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "吉浦駅前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5276073,
+          34.2579193
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "吉浦駅前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936990
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5296072,
+          34.2571695
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "神賀橋",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5306239,
+          34.2535365
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "潭鼓",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936992
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5306239,
+          34.2531532
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "潭鼓",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5309574,
+          34.2496536
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "池の浦",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5308407,
+          34.2494203
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "池の浦",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5301742,
+          34.2475372
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "瀬戸見町入口",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5299742,
+          34.2474872
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "瀬戸見町入口",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5307409,
+          34.2452374
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "若葉町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.530191,
+          34.2455207
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "若葉町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416936999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5344906,
+          34.2463874
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "海上保安大学校入口",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.533574,
+          34.2459541
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "海上保安大学校入口",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5392234,
+          34.2482206
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "海岸４丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5389901,
+          34.2480373
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "海岸４丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5432065,
+          34.2468541
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "海岸３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5442064,
+          34.2465875
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "海岸３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5460896,
+          34.2463542
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "海岸２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5466063,
+          34.2458876
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "海岸２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5502227,
+          34.2446878
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "三条１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5508059,
+          34.2450211
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "三条１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5540555,
+          34.2481209
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "三条３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.554767,
+          34.2490919
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "三条３丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5549721,
+          34.2485208
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "三条３丁目",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6103396,
+          34.2343312
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "広大橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6103348,
+          34.23409
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "広大橋",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6033853,
+          34.2362896
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "小倉新開",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6038587,
+          34.2357683
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "小倉新開",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5904284,
+          34.2528409
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "新畑",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5911825,
+          34.2524516
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "新畑",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5883858,
+          34.2526543
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉越",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5879192,
+          34.252521
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "呉越",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.586086,
+          34.252271
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東畑",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.567397,
+          34.2459419
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5662094,
+          34.2447593
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本通３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5649273,
+          34.2426539
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "四道路",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5652213,
+          34.2422951
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "四道路",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5622641,
+          34.2434271
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中通１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5467245,
+          34.2120746
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋４丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937029
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5465578,
+          34.2120912
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋４丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5473077,
+          34.2137911
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937031
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5472577,
+          34.2138077
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5473409,
+          34.2156075
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5473743,
+          34.2156742
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.548524,
+          34.2181906
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "鍋山団地",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5483741,
+          34.218024
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "鍋山団地",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5524902,
+          34.2210071
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "鍋峠",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5522403,
+          34.2209571
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "鍋峠",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5511571,
+          34.2202238
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "鍋峠",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.551457,
+          34.2203738
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "鍋峠",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5529569,
+          34.2196739
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原１３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937041
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5531902,
+          34.2199405
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原１３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.55494,
+          34.2212737
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原１３丁目北",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5551067,
+          34.2218403
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原１３丁目北",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5553899,
+          34.2236735
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原１２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5553565,
+          34.2238068
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原１２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937046
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.556673,
+          34.2256733
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原１１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.556623,
+          34.22544
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原１１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937048
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5579228,
+          34.2273065
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原９丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5580562,
+          34.2275565
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原９丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937050
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5595559,
+          34.229223
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原８丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5593726,
+          34.2291396
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原８丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5608391,
+          34.2307228
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原７丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937053
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5608058,
+          34.2307562
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原７丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.561589,
+          34.232006
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原５丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937055
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5615723,
+          34.2321227
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原５丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5626055,
+          34.2337392
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原４丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5628555,
+          34.2339225
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原４丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5644886,
+          34.2346725
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5650885,
+          34.2352391
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原３丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937060
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5661051,
+          34.2351724
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原２丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937061
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5676618,
+          34.236501
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937062
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5670883,
+          34.2362057
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "宮原１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5691047,
+          34.2401386
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "清水１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.569188,
+          34.2403886
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "清水１丁目",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5707211,
+          34.2421884
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "和庄小学校下",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937066
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5705878,
+          34.2422718
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "和庄小学校下",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937067
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5702508,
+          34.2424551
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "和庄小学校下",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5701756,
+          34.2425484
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "和庄小学校下",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5685878,
+          34.2445881
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5684378,
+          34.2445881
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "本町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937071
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5537401,
+          34.2225236
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "坪の内町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5534234,
+          34.2223403
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "坪の内町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5553565,
+          34.2258733
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "串山",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5548565,
+          34.2257399
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "串山",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937075
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5640551,
+          34.2389553
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "入船山公園",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5635885,
+          34.2387387
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "入船山公園",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5651217,
+          34.2400219
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "国立病院",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5646384,
+          34.2397053
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "国立病院",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5657549,
+          34.2406385
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "青山町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937080
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5656049,
+          34.2406218
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "青山町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.545158,
+          34.2113413
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "鍋桟橋",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5457653,
+          34.213299
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "大正橋",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5452911,
+          34.2149076
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋まちづくりセンター前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5451578,
+          34.2149576
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "警固屋まちづくりセンター前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.543656,
+          34.2234394
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "日本製鉄前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5448575,
+          34.2231234
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "日本製鉄前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5444574,
+          34.2241233
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "日本製鉄前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5450907,
+          34.2245732
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "昭和町",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5462572,
+          34.2252065
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "淀川製鋼前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.545374,
+          34.2250732
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "淀川製鋼前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5487737,
+          34.2250566
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "貿易倉庫前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5490737,
+          34.2255232
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "貿易倉庫前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5503402,
+          34.2266064
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "潜水隊前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5501069,
+          34.2265398
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "潜水隊前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5525399,
+          34.2283229
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "昭和埠頭前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5525399,
+          34.2284563
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "昭和埠頭前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5589393,
+          34.2305895
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "ＩＨＩ前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5575894,
+          34.2293063
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "ＩＨＩ前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5608555,
+          34.2356223
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "総監部前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5611888,
+          34.2357223
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "総監部前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5610555,
+          34.2361223
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "総監部前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.561022,
+          34.2392886
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "教育隊前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5606945,
+          34.2391924
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "教育隊前",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5629892,
+          34.2411315
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "眼鏡橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5625885,
+          34.2410718
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "眼鏡橋",
+        "operator": "広電バス; 呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.563338,
+          34.2512707
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "体育館前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5630775,
+          34.2517108
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "体育館前",
+        "operator": "広電バス",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 9416937195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6059357,
+          34.2236577
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "クリーンセンターくれ",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121358561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6087354,
+          34.2252243
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "多賀谷町２番",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121358562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6090354,
+          34.2253576
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "多賀谷町２番",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121358563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6109185,
+          34.2265741
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "多賀谷町１番",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121358564
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6109851,
+          34.2264575
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "多賀谷町１番",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121358565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6137348,
+          34.227974
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "虹村団地入口",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121358566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6138015,
+          34.2278741
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "虹村団地入口",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121358567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6075689,
+          34.2230578
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "虹村南",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121358568
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6070689,
+          34.2252409
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "多賀谷町３番",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121358569
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6178005,
+          34.2432725
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "初崎神社前",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121364412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6135842,
+          34.2413059
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "常盤橋",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121364413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6185172,
+          34.2399728
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "四新開",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121364416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6161507,
+          34.2405727
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "北古新開",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121364417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6119011,
+          34.2406393
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "東横路",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121364418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6103679,
+          34.2396227
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "横路",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121364419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6087348,
+          34.2381562
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "南横路",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121364420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6150513,
+          34.2310071
+        ]
+      },
+      "properties": {
+        "facility_type": "bus_stop",
+        "facilityType": "bus_stop",
+        "name": "中国労災病院",
+        "operator": "呉市",
+        "routes": [
+          "呉市内路線バス"
+        ],
+        "osm_id": 11121364440
+      }
+    }
+  ]
+}

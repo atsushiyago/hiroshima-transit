@@ -1,0 +1,1282 @@
+{
+  "places": [
+    {
+      "name": "安佐南区",
+      "lat": 34.4518398,
+      "lng": 132.4716453,
+      "category": "suburb"
+    },
+    {
+      "name": "あき亀山駅",
+      "lat": 34.5171925,
+      "lng": 132.4960128,
+      "category": "station"
+    },
+    {
+      "name": "あさひが丘二丁目",
+      "lat": 34.502929,
+      "lng": 132.439884,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "あさひが丘五丁目",
+      "lat": 34.50285,
+      "lng": 132.433486,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "あさひが丘四丁目",
+      "lat": 34.502831,
+      "lng": 132.436417,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田一丁目",
+      "lat": 34.463686,
+      "lng": 132.498361,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田三丁目",
+      "lat": 34.466542,
+      "lng": 132.502411,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田二丁目",
+      "lat": 34.468233,
+      "lng": 132.498379,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田五丁目",
+      "lat": 34.472085,
+      "lng": 132.502268,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田南一丁目",
+      "lat": 34.451902,
+      "lng": 132.49104,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田南七丁目",
+      "lat": 34.461593,
+      "lng": 132.500209,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田南三丁目",
+      "lat": 34.452418,
+      "lng": 132.4949,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田南九丁目",
+      "lat": 34.458646,
+      "lng": 132.507947,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田南二丁目",
+      "lat": 34.454381,
+      "lng": 132.493619,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田南五丁目",
+      "lat": 34.45203,
+      "lng": 132.502748,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田南八丁目",
+      "lat": 34.463041,
+      "lng": 132.50622,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田南六丁目",
+      "lat": 34.457106,
+      "lng": 132.50271,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田南四丁目",
+      "lat": 34.45564,
+      "lng": 132.498895,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田南町",
+      "lat": 34.455525,
+      "lng": 132.506347,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田四丁目",
+      "lat": 34.469252,
+      "lng": 132.506357,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "口田町",
+      "lat": 34.474051,
+      "lng": 132.502372,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "可部南一丁目",
+      "lat": 34.496102,
+      "lng": 132.513859,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "安佐町大字動物園",
+      "lat": 34.498509,
+      "lng": 132.441395,
+      "category": "quarter"
+    },
+    {
+      "name": "安佐町大字筒瀬",
+      "lat": 34.494123,
+      "lng": 132.467587,
+      "category": "quarter"
+    },
+    {
+      "name": "真亀三丁目",
+      "lat": 34.483197,
+      "lng": 132.512056,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "落合一丁目",
+      "lat": 34.473695,
+      "lng": 132.510242,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "落合三丁目",
+      "lat": 34.477466,
+      "lng": 132.511796,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "落合二丁目",
+      "lat": 34.480388,
+      "lng": 132.50811,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "落合南一丁目",
+      "lat": 34.464454,
+      "lng": 132.509981,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "落合南二丁目",
+      "lat": 34.466884,
+      "lng": 132.512921,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "落合町",
+      "lat": 34.471946,
+      "lng": 132.507791,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "八木一丁目",
+      "lat": 34.4760459,
+      "lng": 132.4936094,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "八木二丁目",
+      "lat": 34.479552,
+      "lng": 132.4956566,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "八木三丁目",
+      "lat": 34.4823703,
+      "lng": 132.493468,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "八木四丁目",
+      "lat": 34.4851677,
+      "lng": 132.4992311,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "八木五丁目",
+      "lat": 34.4822851,
+      "lng": 132.5006595,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "八木六丁目",
+      "lat": 34.4899794,
+      "lng": 132.5021088,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "八木七丁目",
+      "lat": 34.4884453,
+      "lng": 132.5039759,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "八木八丁目",
+      "lat": 34.4933444,
+      "lng": 132.5066761,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "八木九丁目",
+      "lat": 34.4861458,
+      "lng": 132.5063336,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本新町一丁目",
+      "lat": 34.4402412,
+      "lng": 132.437706,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本新町二丁目",
+      "lat": 34.4430869,
+      "lng": 132.4371033,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本新町三丁目",
+      "lat": 34.4456011,
+      "lng": 132.4425864,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本新町五丁目",
+      "lat": 34.4454075,
+      "lng": 132.4359417,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本町",
+      "lat": 34.4463905,
+      "lng": 132.4492748,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本一丁目",
+      "lat": 34.4350563,
+      "lng": 132.4549707,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本二丁目",
+      "lat": 34.4378924,
+      "lng": 132.4570268,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本三丁目",
+      "lat": 34.4392666,
+      "lng": 132.4539544,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本四丁目",
+      "lat": 34.4379606,
+      "lng": 132.4483177,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本五丁目",
+      "lat": 34.4357093,
+      "lng": 132.4450562,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本六丁目",
+      "lat": 34.4377852,
+      "lng": 132.4381786,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本七丁目",
+      "lat": 34.4406602,
+      "lng": 132.4429409,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本八丁目",
+      "lat": 34.4432136,
+      "lng": 132.4466396,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本九丁目",
+      "lat": 34.4423365,
+      "lng": 132.4511538,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "緑井一丁目",
+      "lat": 34.463848,
+      "lng": 132.4753371,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "緑井二丁目",
+      "lat": 34.4657088,
+      "lng": 132.4715556,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "緑井三丁目",
+      "lat": 34.4712523,
+      "lng": 132.4682705,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "緑井四丁目",
+      "lat": 34.4700345,
+      "lng": 132.4751598,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "緑井五丁目",
+      "lat": 34.4689141,
+      "lng": 132.478894,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "緑井六丁目",
+      "lat": 34.4729669,
+      "lng": 132.4836208,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "緑井七丁目",
+      "lat": 34.4737852,
+      "lng": 132.4792485,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "緑井八丁目",
+      "lat": 34.4778279,
+      "lng": 132.4845544,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "不動院前駅",
+      "lat": 34.4265677,
+      "lng": 132.4689107,
+      "category": "station"
+    },
+    {
+      "name": "牛田駅",
+      "lat": 34.4175234,
+      "lng": 132.4647868,
+      "category": "station"
+    },
+    {
+      "name": "大町駅",
+      "lat": 34.4611161,
+      "lng": 132.4706451,
+      "category": "station"
+    },
+    {
+      "name": "大塚駅",
+      "lat": 34.4415716,
+      "lng": 132.402817,
+      "category": "station"
+    },
+    {
+      "name": "広域公園前駅",
+      "lat": 34.4354023,
+      "lng": 132.4001446,
+      "category": "station"
+    },
+    {
+      "name": "白島駅",
+      "lat": 34.4109218,
+      "lng": 132.4627488,
+      "category": "station"
+    },
+    {
+      "name": "伴中央駅",
+      "lat": 34.45598,
+      "lng": 132.4052287,
+      "category": "station"
+    },
+    {
+      "name": "大原駅",
+      "lat": 34.4632256,
+      "lng": 132.4127184,
+      "category": "station"
+    },
+    {
+      "name": "伴駅",
+      "lat": 34.4699078,
+      "lng": 132.4191041,
+      "category": "station"
+    },
+    {
+      "name": "長楽寺駅",
+      "lat": 34.4729632,
+      "lng": 132.4310097,
+      "category": "station"
+    },
+    {
+      "name": "高取駅",
+      "lat": 34.4751622,
+      "lng": 132.438136,
+      "category": "station"
+    },
+    {
+      "name": "上安駅",
+      "lat": 34.4757349,
+      "lng": 132.4447292,
+      "category": "station"
+    },
+    {
+      "name": "安東駅",
+      "lat": 34.4749944,
+      "lng": 132.4533465,
+      "category": "station"
+    },
+    {
+      "name": "毘沙門台駅",
+      "lat": 34.4696015,
+      "lng": 132.4626873,
+      "category": "station"
+    },
+    {
+      "name": "古市駅",
+      "lat": 34.4577195,
+      "lng": 132.4752085,
+      "category": "station"
+    },
+    {
+      "name": "中筋駅",
+      "lat": 34.451686,
+      "lng": 132.4769955,
+      "category": "station"
+    },
+    {
+      "name": "西原駅",
+      "lat": 34.4433627,
+      "lng": 132.4748216,
+      "category": "station"
+    },
+    {
+      "name": "祗園新橋北駅",
+      "lat": 34.4352184,
+      "lng": 132.4708622,
+      "category": "station"
+    },
+    {
+      "name": "横川駅",
+      "lat": 34.4104178,
+      "lng": 132.4508213,
+      "category": "station"
+    },
+    {
+      "name": "中島駅",
+      "lat": 34.5005256,
+      "lng": 132.513031,
+      "category": "station"
+    },
+    {
+      "name": "可部駅",
+      "lat": 34.5121141,
+      "lng": 132.5107458,
+      "category": "station"
+    },
+    {
+      "name": "古市橋駅",
+      "lat": 34.4507923,
+      "lng": 132.4681971,
+      "category": "station"
+    },
+    {
+      "name": "河戸帆待川駅",
+      "lat": 34.516709,
+      "lng": 132.5052063,
+      "category": "station"
+    },
+    {
+      "name": "上八木駅",
+      "lat": 34.4899154,
+      "lng": 132.5060318,
+      "category": "station"
+    },
+    {
+      "name": "緑井駅",
+      "lat": 34.4675983,
+      "lng": 132.4759686,
+      "category": "station"
+    },
+    {
+      "name": "七軒茶屋駅",
+      "lat": 34.4719961,
+      "lng": 132.4805594,
+      "category": "station"
+    },
+    {
+      "name": "梅林駅",
+      "lat": 34.4808645,
+      "lng": 132.4942334,
+      "category": "station"
+    },
+    {
+      "name": "三滝駅",
+      "lat": 34.4172255,
+      "lng": 132.4473512,
+      "category": "station"
+    },
+    {
+      "name": "安芸長束駅",
+      "lat": 34.428274,
+      "lng": 132.4560454,
+      "category": "station"
+    },
+    {
+      "name": "下祗園駅",
+      "lat": 34.4395351,
+      "lng": 132.4625325,
+      "category": "station"
+    },
+    {
+      "name": "中深川駅",
+      "lat": 34.4810297,
+      "lng": 132.5340327,
+      "category": "station"
+    },
+    {
+      "name": "玖村駅",
+      "lat": 34.4823,
+      "lng": 132.5082828,
+      "category": "station"
+    },
+    {
+      "name": "戸坂駅",
+      "lat": 34.4381672,
+      "lng": 132.4912722,
+      "category": "station"
+    },
+    {
+      "name": "安芸矢口駅",
+      "lat": 34.4631489,
+      "lng": 132.4949935,
+      "category": "station"
+    },
+    {
+      "name": "下深川駅",
+      "lat": 34.4887408,
+      "lng": 132.5244015,
+      "category": "station"
+    },
+    {
+      "name": "戸坂山崎町",
+      "lat": 34.435497,
+      "lng": 132.483816,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "戸坂山根三丁目",
+      "lat": 34.435,
+      "lng": 132.492738,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "戸坂惣田一丁目",
+      "lat": 34.44031,
+      "lng": 132.489719,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "戸坂惣田二丁目",
+      "lat": 34.439264,
+      "lng": 132.491729,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "戸坂千足一丁目",
+      "lat": 34.437151,
+      "lng": 132.480999,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "戸坂山根二丁目",
+      "lat": 34.435265,
+      "lng": 132.490638,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "戸坂中町",
+      "lat": 34.435254,
+      "lng": 132.487777,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "戸坂千足二丁目",
+      "lat": 34.438757,
+      "lng": 132.4865,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "山本新町四丁目",
+      "lat": 34.447184,
+      "lng": 132.438891,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "安東七丁目",
+      "lat": 34.48894,
+      "lng": 132.461079,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "安東六丁目",
+      "lat": 34.481914,
+      "lng": 132.453406,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "安東五丁目",
+      "lat": 34.485799,
+      "lng": 132.454428,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "安東四丁目",
+      "lat": 34.479341,
+      "lng": 132.456998,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "安東三丁目",
+      "lat": 34.479506,
+      "lng": 132.459653,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "安東二丁目",
+      "lat": 34.474077,
+      "lng": 132.454861,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "安東一丁目",
+      "lat": 34.472395,
+      "lng": 132.459362,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "八木町",
+      "lat": 34.4984,
+      "lng": 132.495105,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "緑井町",
+      "lat": 34.479093,
+      "lng": 132.476864,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "古市四丁目",
+      "lat": 34.451538,
+      "lng": 132.467529,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "古市三丁目",
+      "lat": 34.453168,
+      "lng": 132.469479,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "古市二丁目",
+      "lat": 34.454799,
+      "lng": 132.472804,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "古市一丁目",
+      "lat": 34.453217,
+      "lng": 132.473255,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "毘沙門台東二丁目",
+      "lat": 34.478343,
+      "lng": 132.469644,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "毘沙門台東一丁目",
+      "lat": 34.47959,
+      "lng": 132.467804,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "毘沙門台四丁目",
+      "lat": 34.484282,
+      "lng": 132.461592,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "毘沙門台三丁目",
+      "lat": 34.48102,
+      "lng": 132.46303,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "毘沙門台二丁目",
+      "lat": 34.475184,
+      "lng": 132.462146,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "毘沙門台一丁目",
+      "lat": 34.471181,
+      "lng": 132.465606,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "東原三丁目",
+      "lat": 34.445959,
+      "lng": 132.47908,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "東原二丁目",
+      "lat": 34.442665,
+      "lng": 132.483647,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "東原一丁目",
+      "lat": 34.441787,
+      "lng": 132.478381,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "東野三丁目",
+      "lat": 34.453395,
+      "lng": 132.484891,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "東野二丁目",
+      "lat": 34.449435,
+      "lng": 132.484491,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "東野一丁目",
+      "lat": 34.44617,
+      "lng": 132.485327,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "西原九丁目",
+      "lat": 34.447566,
+      "lng": 132.471633,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "西原八丁目",
+      "lat": 34.443838,
+      "lng": 132.472011,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "西原七丁目",
+      "lat": 34.441245,
+      "lng": 132.47569,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "西原六丁目",
+      "lat": 34.44056,
+      "lng": 132.471291,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "西原五丁目",
+      "lat": 34.443614,
+      "lng": 132.468313,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "西原四丁目",
+      "lat": 34.436699,
+      "lng": 132.469198,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "中筋四丁目",
+      "lat": 34.457398,
+      "lng": 132.479256,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "中筋三丁目",
+      "lat": 34.452377,
+      "lng": 132.479692,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "中筋二丁目",
+      "lat": 34.449482,
+      "lng": 132.478404,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "中筋一丁目",
+      "lat": 34.451008,
+      "lng": 132.47507,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "中須二丁目",
+      "lat": 34.459935,
+      "lng": 132.476101,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "中須一丁目",
+      "lat": 34.459184,
+      "lng": 132.472367,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴東町",
+      "lat": 34.452845,
+      "lng": 132.422945,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴東八丁目",
+      "lat": 34.458137,
+      "lng": 132.414696,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴東七丁目",
+      "lat": 34.463354,
+      "lng": 132.416507,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴東六丁目",
+      "lat": 34.460553,
+      "lng": 132.422694,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴東五丁目",
+      "lat": 34.466521,
+      "lng": 132.421708,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴東四丁目",
+      "lat": 34.468393,
+      "lng": 132.410603,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴東三丁目",
+      "lat": 34.472458,
+      "lng": 132.412936,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴東二丁目",
+      "lat": 34.474853,
+      "lng": 132.417164,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴東一丁目",
+      "lat": 34.472613,
+      "lng": 132.420879,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴中央六丁目",
+      "lat": 34.453674,
+      "lng": 132.407032,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴中央五丁目",
+      "lat": 34.456934,
+      "lng": 132.410166,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴中央一丁目",
+      "lat": 34.46271,
+      "lng": 132.406643,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴北町",
+      "lat": 34.483482,
+      "lng": 132.414711,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "伴北七丁目",
+      "lat": 34.483671,
+      "lng": 132.406333,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "長楽寺町",
+      "lat": 34.482775,
+      "lng": 132.425236,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "長楽寺三丁目",
+      "lat": 34.474515,
+      "lng": 132.425801,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "長楽寺二丁目",
+      "lat": 34.469799,
+      "lng": 132.429379,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "長楽寺一丁目",
+      "lat": 34.474887,
+      "lng": 132.430724,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "高取南町",
+      "lat": 34.459645,
+      "lng": 132.435032,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "高取南三丁目",
+      "lat": 34.466497,
+      "lng": 132.428716,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "高取南二丁目",
+      "lat": 34.467038,
+      "lng": 132.433816,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "高取南一丁目",
+      "lat": 34.467456,
+      "lng": 132.437523,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "高取北町",
+      "lat": 34.484774,
+      "lng": 132.433013,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "高取北四丁目",
+      "lat": 34.477772,
+      "lng": 132.432854,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "高取北三丁目",
+      "lat": 34.477221,
+      "lng": 132.435433,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "高取北二丁目",
+      "lat": 34.479691,
+      "lng": 132.437555,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "高取北一丁目",
+      "lat": 34.478674,
+      "lng": 132.44029,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "祇園町",
+      "lat": 34.450848,
+      "lng": 132.453219,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "祇園八丁目",
+      "lat": 34.450081,
+      "lng": 132.461524,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "祇園七丁目",
+      "lat": 34.44939,
+      "lng": 132.46572,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "祇園六丁目",
+      "lat": 34.445453,
+      "lng": 132.464137,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "祇園五丁目",
+      "lat": 34.446925,
+      "lng": 132.457395,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "祇園四丁目",
+      "lat": 34.443704,
+      "lng": 132.454302,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "祇園三丁目",
+      "lat": 34.440723,
+      "lng": 132.460419,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "祇園二丁目",
+      "lat": 34.443748,
+      "lng": 132.466459,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "祇園一丁目",
+      "lat": 34.436885,
+      "lng": 132.462091,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "川内六丁目",
+      "lat": 34.471375,
+      "lng": 132.490558,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "川内五丁目",
+      "lat": 34.467663,
+      "lng": 132.485725,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "川内四丁目",
+      "lat": 34.465142,
+      "lng": 132.490843,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "川内三丁目",
+      "lat": 34.460447,
+      "lng": 132.488439,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "川内二丁目",
+      "lat": 34.463224,
+      "lng": 132.482237,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "川内一丁目",
+      "lat": 34.458026,
+      "lng": 132.484453,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "上安町",
+      "lat": 34.489442,
+      "lng": 132.449437,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "上安七丁目",
+      "lat": 34.488064,
+      "lng": 132.439584,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "上安六丁目",
+      "lat": 34.480938,
+      "lng": 132.445346,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "上安五丁目",
+      "lat": 34.485337,
+      "lng": 132.448976,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "上安四丁目",
+      "lat": 34.482618,
+      "lng": 132.44997,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "上安三丁目",
+      "lat": 34.478951,
+      "lng": 132.448961,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "上安二丁目",
+      "lat": 34.476987,
+      "lng": 132.444241,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "上安一丁目",
+      "lat": 34.475488,
+      "lng": 132.449852,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大町東四丁目",
+      "lat": 34.468397,
+      "lng": 132.464249,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大町東三丁目",
+      "lat": 34.463604,
+      "lng": 132.467226,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大町東二丁目",
+      "lat": 34.461059,
+      "lng": 132.469452,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大町東一丁目",
+      "lat": 34.455449,
+      "lng": 132.467445,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大町西三丁目",
+      "lat": 34.464648,
+      "lng": 132.463431,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大町西二丁目",
+      "lat": 34.457922,
+      "lng": 132.460775,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大町西一丁目",
+      "lat": 34.456434,
+      "lng": 132.464725,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大町",
+      "lat": 34.460539,
+      "lng": 132.459987,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大塚東町",
+      "lat": 34.436094,
+      "lng": 132.422259,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大塚東三丁目",
+      "lat": 34.437087,
+      "lng": 132.417154,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大塚東二丁目",
+      "lat": 34.441474,
+      "lng": 132.409997,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "大塚西一丁目",
+      "lat": 34.447391,
+      "lng": 132.407228,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "相田町",
+      "lat": 34.463377,
+      "lng": 132.446743,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "相田七丁目",
+      "lat": 34.465066,
+      "lng": 132.441125,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "相田六丁目",
+      "lat": 34.468164,
+      "lng": 132.442827,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "相田五丁目",
+      "lat": 34.4702,
+      "lng": 132.446013,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "相田四丁目",
+      "lat": 34.470778,
+      "lng": 132.448746,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "相田三丁目",
+      "lat": 34.467364,
+      "lng": 132.450644,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "相田二丁目",
+      "lat": 34.469578,
+      "lng": 132.452501,
+      "category": "neighbourhood"
+    },
+    {
+      "name": "相田一丁目",
+      "lat": 34.470808,
+      "lng": 132.456472,
+      "category": "neighbourhood"
+    }
+  ]
+}
