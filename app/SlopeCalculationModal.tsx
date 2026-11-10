@@ -106,7 +106,7 @@ export function SlopeCalculationModal({ isOpen, onClose, selectedAreaId }: Slope
         <div style={{ padding: "16px 20px", overflowY: "auto", display: "flex", flexDirection: "column", gap: 16 }}>
           {/* 概要 */}
           <div style={{ background: "rgba(56, 189, 248, 0.08)", border: "1px solid rgba(56, 189, 248, 0.2)", borderRadius: 6, padding: "10px 14px", color: "#e0f2fe", fontSize: 12.5 }}>
-            本システムでは、平面直線距離だけでなく、地形の標高差（勾配）や歩行者の体力特性を考慮して「実際の体感負担（実効歩行距離）」を推計しています。2つの主要係数はそれぞれ<strong>「誰が歩くか（人の体力差）」</strong>と<strong>「上りか下りか（向きと地域の過酷さ）」</strong>という別の役割を持っています。
+            本システムでは、平面直線距離だけでなく、地形の標高差（勾配）や歩行者の体力特性を考慮して「実際の体感負担（実効歩行距離）」を推計しています。2つの主要係数はそれぞれ<strong>「誰が歩くか（人の体力差）」</strong>と<strong>「上り・下りと地域の過酷さ」</strong>という別の役割を持っています。
           </div>
 
           {/* 1. 一言でいうと（表） */}
@@ -128,12 +128,14 @@ export function SlopeCalculationModal({ isOpen, onClose, selectedAreaId }: Slope
                   <td style={{ padding: "8px 10px", color: "#7dd3fc" }}>「人の体力差」</td>
                   <td style={{ padding: "8px 10px", color: "#cbd5e1" }}>
                     坂の斜度（キツさ）にどれだけ敏感か<br />
-                    <span style={{ fontSize: 11, color: "#94a3b8" }}>（高齢者は一般成人の2倍、坂道で急激に疲労）</span>
+                    <span style={{ fontSize: 11, color: "#94a3b8" }}>
+                      （運動生理学の知見※に基づき、登坂時のエネルギー消費・筋力負荷が一般成人の約2倍となる身体特性を反映）
+                    </span>
                   </td>
                 </tr>
                 <tr>
                   <td style={{ padding: "8px 10px", fontWeight: "bold", color: "#f1f5f9" }}>② 上り坂の割増倍率</td>
-                  <td style={{ padding: "8px 10px", color: "#fdba74" }}>「歩く向きと地域の過酷さ」</td>
+                  <td style={{ padding: "8px 10px", color: "#7dd3fc" }}>「上り・下りと地域の過酷さ」</td>
                   <td style={{ padding: "8px 10px", color: "#cbd5e1" }}>
                     下り坂と比べ、上り坂をどれだけ重くみるか<br />
                     <span style={{ fontSize: 11, color: "#94a3b8" }}>（重力に逆らう上り坂や、車も通れない階段市街地への割増）</span>
@@ -141,6 +143,9 @@ export function SlopeCalculationModal({ isOpen, onClose, selectedAreaId }: Slope
                 </tr>
               </tbody>
             </table>
+            <div style={{ fontSize: 10.5, color: "#64748b", marginTop: 4, lineHeight: 1.4 }}>
+              ※運動生理学・リハビリテーション分野等の研究において、高齢者の坂道登坂時のエネルギー消費（METs）や身体負荷は若年成人の約1.8〜2.2倍に跳ね上がることが示されている知見を参考に設定。
+            </div>
           </div>
 
           {/* 2. 計算式 */}
@@ -216,11 +221,23 @@ export function SlopeCalculationModal({ isOpen, onClose, selectedAreaId }: Slope
                 </div>
                 <div style={{ marginTop: 8, paddingTop: 6, borderTop: "1px solid rgba(255, 255, 255, 0.08)", fontSize: 11.5 }}>
                   <div style={{ color: "#94a3b8" }}>100m登ったときの実効距離:</div>
-                  <div style={{ marginTop: 2 }}>
-                    一般: <strong style={{ color: "#38bdf8" }}>約144m</strong>（平地比 1.44倍）
+                  <div style={{ marginTop: 4 }}>
+                    <div style={{ color: "#cbd5e1" }}>一般:</div>
+                    <div style={{ fontFamily: "monospace", fontSize: 10.5, color: "#94a3b8" }}>
+                      100m × (1 + 3.5 × 1.25 × 0.10)
+                    </div>
+                    <div style={{ fontWeight: "bold", color: "#38bdf8", fontSize: 13 }}>
+                      = 約144m <span style={{ fontSize: 11, fontWeight: "normal", color: "#94a3b8" }}>（平地比 1.44倍）</span>
+                    </div>
                   </div>
-                  <div>
-                    高齢者: <strong style={{ color: "#fbbf24" }}>約188m</strong>（平地比 1.88倍）
+                  <div style={{ marginTop: 4 }}>
+                    <div style={{ color: "#cbd5e1" }}>高齢者:</div>
+                    <div style={{ fontFamily: "monospace", fontSize: 10.5, color: "#94a3b8" }}>
+                      100m × (1 + 7.0 × 1.25 × 0.10)
+                    </div>
+                    <div style={{ fontWeight: "bold", color: "#fbbf24", fontSize: 13 }}>
+                      = 約188m <span style={{ fontSize: 11, fontWeight: "normal", color: "#94a3b8" }}>（平地比 1.88倍）</span>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -265,11 +282,23 @@ export function SlopeCalculationModal({ isOpen, onClose, selectedAreaId }: Slope
                 </div>
                 <div style={{ marginTop: 8, paddingTop: 6, borderTop: "1px solid rgba(255, 255, 255, 0.08)", fontSize: 11.5 }}>
                   <div style={{ color: "#94a3b8" }}>100m登ったときの実効距離:</div>
-                  <div style={{ marginTop: 2 }}>
-                    一般: <strong style={{ color: "#38bdf8" }}>約170m</strong>（平地比 1.70倍）
+                  <div style={{ marginTop: 4 }}>
+                    <div style={{ color: "#cbd5e1" }}>一般:</div>
+                    <div style={{ fontFamily: "monospace", fontSize: 10.5, color: "#94a3b8" }}>
+                      100m × (1 + 4.5 × 1.55 × 0.10)
+                    </div>
+                    <div style={{ fontWeight: "bold", color: "#38bdf8", fontSize: 13 }}>
+                      = 約170m <span style={{ fontSize: 11, fontWeight: "normal", color: "#94a3b8" }}>（平地比 1.70倍）</span>
+                    </div>
                   </div>
-                  <div>
-                    高齢者: <strong style={{ color: "#f87171" }}>約267m</strong>（平地比 2.67倍）
+                  <div style={{ marginTop: 4 }}>
+                    <div style={{ color: "#cbd5e1" }}>高齢者:</div>
+                    <div style={{ fontFamily: "monospace", fontSize: 10.5, color: "#94a3b8" }}>
+                      100m × (1 + 9.0 × 1.85 × 0.10)
+                    </div>
+                    <div style={{ fontWeight: "bold", color: "#f87171", fontSize: 13 }}>
+                      = 約267m <span style={{ fontSize: 11, fontWeight: "normal", color: "#94a3b8" }}>（平地比 2.67倍！）</span>
+                    </div>
                   </div>
                 </div>
               </div>
