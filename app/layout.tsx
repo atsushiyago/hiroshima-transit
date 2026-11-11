@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'PLATEAU 交通空白地可視化・施策シミュレーション（広島市安佐南区 毘沙門台）',
-  description: 'PLATEAU 3D都市モデルを用いた広島市安佐南区 毘沙門台エリア（毘沙門台1丁目〜4丁目）の交通空白地可視化・施策シミュレーション',
+  title: 'PLATEAU 交通空白地可視化・施策シミュレーション（広島県：広島市安佐南区・呉市宮原地区）',
+  description: 'PLATEAU 3D都市モデルを用いた広島県内の傾斜地交通空白地可視化・施策シミュレーション（広島市安佐南区 毘沙門台・長楽寺周辺 / 呉市 宮原・両城・平原周辺）',
   verification: {
     google: 'lEwWrnQDGdebu0V7ZBAU0KxIAdoKAiuQqiS7jf22T88',
   },

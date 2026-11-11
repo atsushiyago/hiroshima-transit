@@ -2437,6 +2437,13 @@ export default function PlateauViewer() {
     hubModes,
     mobilityHubSummary,
   ]);
+
+  useEffect(() => {
+    if (typeof document !== 'undefined') {
+      const area = getAreaConfig(selectedAreaId);
+      document.title = `PLATEAU 交通空白地可視化・施策シミュレーション（${area.selectorLabel}）`;
+    }
+  }, [selectedAreaId]);
   const scheduleDemandTransitRecomputeRef = useRef<(() => void) | null>(null);
   const scheduleDemandTransitAnalysisRef = useRef<((delayMs?: number) => void) | null>(null);
   const applyAreaChangeRef = useRef<((areaId: AreaId) => void) | null>(null);
