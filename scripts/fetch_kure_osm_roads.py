@@ -6,9 +6,9 @@ import time
 import sys
 from pathlib import Path
 
-# Sub-boxes for Kure
-LAT_STEPS = [(34.225, 34.238), (34.238, 34.250), (34.250, 34.262)]
-LNG_STEPS = [(132.540, 132.560), (132.560, 132.580)]
+# Sub-boxes for Kure - covers Miyahara 1-13, Hirahara, Kami-hirahara, Kure Station, Washo, Hontori, Agha
+LAT_STEPS = [(34.215, 34.235), (34.235, 34.255), (34.255, 34.275)]
+LNG_STEPS = [(132.535, 132.555), (132.555, 132.575), (132.575, 132.595)]
 
 def haversine(lat1, lon1, lat2, lon2):
     R = 6371000

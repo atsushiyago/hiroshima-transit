@@ -3,9 +3,12 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import path from "node:path";
 
-test("snap-road (hiroshima): snaps to real road edges and rejects points >= 35m", async () => {
-  const jsonPath = path.join(process.cwd(), "public", "data", "hiroshima", "routing-graph.json");
-  assert.ok(fs.existsSync(jsonPath), "hiroshima routing-graph.json should exist");
+test("snap-road (hiroshima): snaps to real road edges including Chorakuji and Takatori", async () => {
+  let jsonPath = path.join(process.cwd(), "public", "data", "hiroshima", "snap-roads.json");
+  if (!fs.existsSync(jsonPath)) {
+    jsonPath = path.join(process.cwd(), "public", "data", "hiroshima", "routing-graph.json");
+  }
+  assert.ok(fs.existsSync(jsonPath), "hiroshima snap-roads.json/routing-graph.json should exist");
 
   const raw = fs.readFileSync(jsonPath, "utf-8");
   const data = JSON.parse(raw);
@@ -13,7 +16,7 @@ test("snap-road (hiroshima): snaps to real road edges and rejects points >= 35m"
 
   const roadEdges = [];
   for (let i = 0; i < data.edges.length; i++) {
-    if (data.edges[i][5] === 1) {
+    if (data.edges[i][5] === 1 || data.edges[i][5] === undefined) {
       roadEdges.push([data.edges[i][0], data.edges[i][1]]);
     }
   }
@@ -39,7 +42,7 @@ test("snap-road (hiroshima): snaps to real road edges and rejects points >= 35m"
     }
   }
 
-  function snap(qLat, qLng, maxDist = 35) {
+  function snap(qLat, qLng, maxDist = 60) {
     const gx = Math.floor(qLng / GRID_DEG);
     const gy = Math.floor(qLat / GRID_DEG);
     const cosLat = Math.cos((qLat * Math.PI) / 180);
@@ -81,28 +84,21 @@ test("snap-road (hiroshima): snaps to real road edges and rejects points >= 35m"
     return { snapped: bestDist <= maxDist, distanceMeters: bestDist, bestPoint };
   }
 
-  // 1. Pick road edge
-  const [u, v] = roadEdges[50];
-  const [lngA, latA] = data.nodes[u];
-  const [lngB, latB] = data.nodes[v];
-  const midLat = (latA + latB) / 2;
-  const midLng = (lngA + lngB) / 2;
+  // 長楽寺3丁目 & 高取北4丁目
+  const chorakujiRes = snap(34.474515, 132.425801, 60);
+  assert.equal(chorakujiRes.snapped, true, "Chorakuji 3-chome should snap to road");
+  assert.ok(chorakujiRes.distanceMeters < 30, `Chorakuji distance should be < 30m, got ${chorakujiRes.distanceMeters}`);
 
-  // Jitter 10m off road
-  const jitterLat = midLat + 0.00008;
-  const jitterLng = midLng + 0.00008;
+  const takatoriRes = snap(34.477772, 132.432854, 60);
+  assert.equal(takatoriRes.snapped, true, "Takatori-kita 4-chome should snap to road");
+  assert.ok(takatoriRes.distanceMeters < 15, `Takatori distance should be < 15m, got ${takatoriRes.distanceMeters}`);
 
-  const nearRes = snap(jitterLat, jitterLng, 35);
-  assert.equal(nearRes.snapped, true, "10m off road should snap");
-  assert.ok(nearRes.distanceMeters < 35, "distance should be under 35m");
-  assert.ok(nearRes.bestPoint !== null, "snapped point should exist");
-
-  // 2. Far away point (1km away)
-  const farRes = snap(midLat + 0.01, midLng + 0.01, 35);
-  assert.equal(farRes.snapped, false, "distant point should not snap");
+  // 山奥・境界外
+  const farRes = snap(34.474515 + 0.05, 132.425801 + 0.05, 60);
+  assert.equal(farRes.snapped, false, "distant mountain point should not snap");
 });
 
-test("snap-road (kure): snaps to real road edges and rejects points >= 35m", async () => {
+test("snap-road (kure): snaps to real road edges including Kami-hirahara and Hirahara", async () => {
   const jsonPath = path.join(process.cwd(), "public", "data", "kure", "routing-graph.json");
   assert.ok(fs.existsSync(jsonPath), "kure routing-graph.json should exist");
 
@@ -111,11 +107,44 @@ test("snap-road (kure): snaps to real road edges and rejects points >= 35m", asy
   assert.ok(Array.isArray(data.nodes) && Array.isArray(data.edges));
   assert.ok(data.edges.length > 5000, `should have > 5000 road edges, found ${data.edges.length}`);
 
-  const [u, v] = data.edges[100];
-  const [lngA, latA] = data.nodes[u];
-  const [lngB, latB] = data.nodes[v];
-  const midLat = (latA + latB) / 2;
-  const midLng = (lngA + lngB) / 2;
+  function snap(qLat, qLng, maxDist = 60) {
+    const cosLat = Math.cos((qLat * Math.PI) / 180);
+    let bestDist = Infinity;
+    let bestPoint = null;
+    for (let i = 0; i < data.edges.length; i++) {
+      const e = data.edges[i];
+      if (e[5] === 0) continue;
+      const [u, v] = e;
+      const [lngA, latA] = data.nodes[u];
+      const [lngB, latB] = data.nodes[v];
 
-  assert.ok(Number.isFinite(midLat) && Number.isFinite(midLng));
+      const ax = (lngA - qLng) * 111000 * cosLat;
+      const ay = (latA - qLat) * 111000;
+      const bx = (lngB - qLng) * 111000 * cosLat;
+      const by = (latB - qLat) * 111000;
+      const abx = bx - ax;
+      const aby = by - ay;
+      const abLenSq = abx * abx + aby * aby;
+      let t = 0;
+      if (abLenSq > 0) {
+        t = Math.max(0, Math.min(1, (-ax * abx - ay * aby) / abLenSq));
+      }
+      const dist = Math.hypot(ax + t * abx, ay + t * aby);
+      if (dist < bestDist) {
+        bestDist = dist;
+        bestPoint = { lat: latA + t * (latB - latA), lng: lngA + t * (lngB - lngA) };
+      }
+    }
+    return { snapped: bestDist <= maxDist, distanceMeters: bestDist, bestPoint };
+  }
+
+  // 上平原町 (34.257488, 132.583786)
+  const kamiHiraharaRes = snap(34.257488, 132.583786, 60);
+  assert.equal(kamiHiraharaRes.snapped, true, "Kami-hirahara should snap to road");
+  assert.ok(kamiHiraharaRes.distanceMeters < 55, `distance should be < 55m, got ${kamiHiraharaRes.distanceMeters}`);
+
+  // 平原町 (34.254978, 132.580658)
+  const hiraharaRes = snap(34.254978, 132.580658, 60);
+  assert.equal(hiraharaRes.snapped, true, "Hirahara should snap to road");
+  assert.ok(hiraharaRes.distanceMeters < 25, `distance should be < 25m, got ${hiraharaRes.distanceMeters}`);
 });

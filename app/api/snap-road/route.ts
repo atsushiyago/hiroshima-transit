@@ -14,7 +14,7 @@ type RoutingGraphData = {
 };
 
 const GRID_DEG = 0.005;
-const DEFAULT_MAX_DISTANCE_METERS = 35;
+const DEFAULT_MAX_DISTANCE_METERS = 60;
 
 type SnapSpatialIndex = {
   grid: Map<string, number[]>;

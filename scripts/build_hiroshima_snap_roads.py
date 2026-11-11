@@ -6,14 +6,16 @@ import time
 import sys
 from pathlib import Path
 
-# Sub-boxes for Asaminami-ku (Hiroshima) - smaller tiles to satisfy 50k nodes limit
+# Sub-boxes for Asaminami-ku (Hiroshima) - covers Tomo, Chorakuji, Takatori, Gion, Omachi, Bishamondai
 LAT_STEPS = [
-    (34.430, 34.442),
-    (34.442, 34.454),
-    (34.454, 34.466),
-    (34.466, 34.480),
+    (34.430, 34.445),
+    (34.445, 34.460),
+    (34.460, 34.475),
+    (34.475, 34.492),
 ]
 LNG_STEPS = [
+    (132.405, 132.420),
+    (132.420, 132.435),
     (132.435, 132.450),
     (132.450, 132.465),
     (132.465, 132.480),

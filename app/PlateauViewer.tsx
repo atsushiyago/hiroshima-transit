@@ -4253,7 +4253,7 @@ export default function PlateauViewer() {
                 const res = await fetch(
                   `/api/snap-road?lat=${groundPos.lat}&lng=${groundPos.lng}&area=${encodeURIComponent(
                     selectedAreaIdRef.current
-                  )}&maxDistance=35`
+                  )}&maxDistance=60`
                 );
                 if (!res.ok) {
                   addCustomStop(groundPos.lat, groundPos.lng);
