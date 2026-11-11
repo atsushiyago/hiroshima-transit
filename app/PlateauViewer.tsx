@@ -858,7 +858,7 @@ function Legend({
           <span style={{ fontSize: 13, color: "#6ecbf5", fontWeight: "bold", lineHeight: 1 }}>
             {showExperimentalDistanceModel ? "▼" : "▶"}
           </span>
-          <span style={{ opacity: 0.9 }}>距離モデル（実験的機能・クリックで詳細）</span>
+          <span style={{ opacity: 0.9 }}>距離モデル（直線／道路網・クリックで詳細）</span>
         </div>
         {showExperimentalDistanceModel && (
           <>
@@ -892,7 +892,7 @@ function Legend({
                 borderRadius: 4,
               }}
             >
-              このトグルは{areaConfig.name}エリアでの比較検証機能で、既定の判定基準（直線距離＋傾斜補正）はこのまま変わりません。「道路網距離」に切り替えると、直線距離では基準を満たす扱いだった建物のうち実際にはどれだけが交通空白地に転じるかを確認できます。
+              「道路網距離」に切り替えると、実際の歩行道路に沿った迂回距離で再評価でき、直線距離では圏内と判定されていた建物のうち、実態として交通空白地に該当するエリアを確認できます。
             </div>
             <div style={{ marginTop: 6, opacity: distanceModel === "network" ? 1 : 0.5 }}>
               <label style={{ display: "flex", justifyContent: "space-between", gap: 8 }}>
@@ -909,7 +909,7 @@ function Legend({
                 style={{ width: "100%" }}
               />
               <div style={{ fontSize: 10.5, opacity: 0.75, marginTop: 2 }}>
-                道路網距離は直線距離より系統的に長くなるため、駅800m・バス400mの参考基準にこの倍率をかけて判定を緩和できます（直線距離モデルは400m／800mの閾値で固定）。
+                道路網距離は直線距離より系統的に長くなるため、バス停400m・鉄道駅800mの参考基準にこの倍率をかけて判定を緩和できます（直線距離モデルは400m／800mの閾値で固定）。
               </div>
             </div>
           </>
@@ -3676,7 +3676,7 @@ export default function PlateauViewer() {
               coverageRatio,
               isCovered: coverageRatio <= 1,
               totalFloorArea: c.totalFloorArea,
-              walkProfileLabel: `${profile.label}（道路網距離モデル・実験的）`,
+              walkProfileLabel: `${profile.label}（道路網距離モデル）`,
             };
             recordScore(c.feature, c.buildingId, info);
           }
@@ -3781,7 +3781,7 @@ export default function PlateauViewer() {
             isCovered,
             totalFloorArea: c.totalFloorArea,
             walkProfileLabel: isNetworkMode
-              ? `${profile.label}（道路網距離モデル・実験的）`
+              ? `${profile.label}（道路網距離モデル）`
               : profile.label,
           };
           recordScore(c.feature, c.buildingId, info);

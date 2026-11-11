@@ -290,7 +290,7 @@ export const AREA_CONFIGS: Record<AreaId, AreaConfig> = {
     cityCode: TARGET_CITY_CODE,
     meshCodes: TARGET_MESH_CODES,
     descriptionText:
-      "アストラムライン毘沙門台駅等の鉄道駅800m／バス停（毘沙門台団地線等）400mを参考に、急傾斜地の上り坂負荷補正を加えて判定しています。",
+      "バス停（毘沙門台団地線等）400m／鉄道駅（アストラムライン毘沙門台駅等）800mを参考に、急傾斜地の上り坂負荷補正を加えて判定しています。",
     stationLegendLabel: "鉄道駅（アストラムライン・JR。800m圏判定に使用）",
     majorBusLegendLabel: "バス停（広島交通・広電バス等。400m圏判定に使用）",
     majorOperatorKeywords: [
@@ -344,7 +344,7 @@ export const AREA_CONFIGS: Record<AreaId, AreaConfig> = {
     cityCode: KURE_MIYAHARA_CITY_CODE,
     meshCodes: KURE_MIYAHARA_MESH_CODES,
     descriptionText:
-      "JR呉駅等の鉄道駅800m／バス停（広電バス宮原線等）400mを参考に、急勾配・階段が多い斜面市街地の上り坂負荷補正（強化設定）を加えて判定しています。",
+      "バス停（広電バス宮原線等）400m／鉄道駅（JR呉駅等）800mを参考に、急勾配・階段が多い斜面市街地の上り坂負荷補正（強化設定）を加えて判定しています。",
     stationLegendLabel: "鉄道駅（JR呉線。800m圏判定に使用）",
     majorBusLegendLabel: "バス停（広電バス・呉市生活バス等。400m圏判定に使用）",
     majorOperatorKeywords: [
