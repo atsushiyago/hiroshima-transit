@@ -2395,20 +2395,42 @@ export default function PlateauViewer() {
   const [selectedAreaId, setSelectedAreaId] = useState<AreaId>(DEFAULT_AREA_ID);
   const [areaDataStatusNote, setAreaDataStatusNote] = useState<string | null>(null);
   const [analysisError, setAnalysisError] = useState<string | null>(null);
-  const [roadSnapNotice, setRoadSnapNotice] = useState<{ message: string; isError: boolean } | null>(null);
+  const [roadSnapNotice, setRoadSnapNotice] = useState<{
+    message: string;
+    isError: boolean;
+    isPending?: boolean;
+  } | null>(null);
   const roadSnapNoticeTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const showRoadSnapNoticeRef = useRef<(message: string, isError?: boolean) => void>(() => {});
+  const showRoadSnapNoticeRef = useRef<
+    (
+      message: string,
+      isError?: boolean,
+      options?: { autoDismissMs?: number | null; isPending?: boolean }
+    ) => void
+  >(() => {});
 
-  const showRoadSnapNotice = useCallback((message: string, isError = false) => {
-    if (roadSnapNoticeTimerRef.current) {
-      clearTimeout(roadSnapNoticeTimerRef.current);
-    }
-    setRoadSnapNotice({ message, isError });
-    // エラー時は2.6秒、成功時は邪魔にならないよう短め（1.8秒）に自動消去
-    roadSnapNoticeTimerRef.current = setTimeout(() => {
-      setRoadSnapNotice(null);
-    }, isError ? 2600 : 1800);
-  }, []);
+  const showRoadSnapNotice = useCallback(
+    (
+      message: string,
+      isError = false,
+      options?: { autoDismissMs?: number | null; isPending?: boolean }
+    ) => {
+      if (roadSnapNoticeTimerRef.current) {
+        clearTimeout(roadSnapNoticeTimerRef.current);
+        roadSnapNoticeTimerRef.current = null;
+      }
+      setRoadSnapNotice({ message, isError, isPending: options?.isPending });
+      const timeoutMs =
+        options?.autoDismissMs === undefined ? (isError ? 2600 : 1800) : options.autoDismissMs;
+      if (timeoutMs !== null) {
+        roadSnapNoticeTimerRef.current = setTimeout(() => {
+          roadSnapNoticeTimerRef.current = null;
+          setRoadSnapNotice(null);
+        }, timeoutMs);
+      }
+    },
+    []
+  );
   showRoadSnapNoticeRef.current = showRoadSnapNotice;
   const containerRef = useRef<HTMLDivElement>(null);
   const viewerRef = useRef<Cesium.Viewer | null>(null);
@@ -2521,6 +2543,8 @@ export default function PlateauViewer() {
   const flyToCustomStopRef = useRef<((id: number) => void) | null>(null);
   const reapplyCustomStopScoresRef = useRef<(() => void) | null>(null);
   const exportCustomStopSimulationGeoJsonRef = useRef<(() => void) | null>(null);
+  const warmUpRoutingGraphRef = useRef<(() => void) | null>(null);
+  const snapRoadWarmupRef = useRef<{ areaId: AreaId; promise: Promise<void> } | null>(null);
   const customStopSummaryRef = useRef<CustomStopSimulationSummary | null>(null);
 
   // モビリティ・ハブ操作用ref。
@@ -2602,6 +2626,46 @@ export default function PlateauViewer() {
     isMobilityHubActiveRef.current = false;
     setIsLegendCollapsed(false);
     reapplyMobilityHubScoresRef.current?.();
+  };
+
+  const warmUpCustomStopResources = () => {
+    // 1つ目の停留所配置で待たされるのを防ぐため、追加モードを開いた時点で
+    // 選択中エリアのサーバー側道路インデックス（/api/snap-road）を先行構築する。
+    const areaId = selectedAreaIdRef.current;
+    if (snapRoadWarmupRef.current?.areaId !== areaId) {
+      const view = getAreaConfig(areaId).initialView;
+      const promise = fetch(
+        `/api/snap-road?lat=${view.centerLat}&lng=${view.centerLng}&area=${encodeURIComponent(
+          areaId
+        )}&maxDistance=1`
+      )
+        .then(() => undefined)
+        .catch(() => undefined)
+        .finally(() => {
+          if (snapRoadWarmupRef.current?.promise === promise) {
+            snapRoadWarmupRef.current = null;
+          }
+        });
+      snapRoadWarmupRef.current = { areaId, promise };
+    }
+    if (distanceModelRef.current === "network") {
+      warmUpRoutingGraphRef.current?.();
+    }
+  };
+
+  const handleToggleAddingCustomStop = () => {
+    const next = !isAddingCustomStopRef.current;
+    isAddingCustomStopRef.current = next;
+    setIsAddingCustomStop(next);
+    if (next) {
+      setIsLegendCollapsed(true);
+      if (isMobilityHubActiveRef.current) {
+        handleCloseMobilityHub();
+      }
+      warmUpCustomStopResources();
+    } else if ((customStopSummaryRef.current?.stopCount ?? 0) === 0) {
+      setIsLegendCollapsed(false);
+    }
   };
   const helloCyclingEntitiesRef = useRef<Cesium.Entity[]>([]);
   useEffect(() => {
@@ -2817,6 +2881,7 @@ export default function PlateauViewer() {
       let nextCustomStopId = 1;
       let customStopEvalGeneration = 0;
       let customStopEvalTimer: ReturnType<typeof setTimeout> | null = null;
+      let isSnappingCustomStop = false;
 
       async function ensureRoutingGraph(): Promise<RoutingGraph | null> {
         if (routingGraphCache) return routingGraphCache;
@@ -2839,6 +2904,9 @@ export default function PlateauViewer() {
         })();
         return routingGraphPromise;
       }
+      warmUpRoutingGraphRef.current = () => {
+        void ensureRoutingGraph();
+      };
 
       function refreshLoadedTileFeatureColors() {
         for (const tile of loadedTiles) {
@@ -4298,17 +4366,32 @@ export default function PlateauViewer() {
         }
 
         if (isAddingCustomStopRef.current) {
+          if (isSnappingCustomStop) return;
           const groundPos = pickGroundLatLng(viewer, movement.position);
           if (groundPos) {
+            const clickAreaId = selectedAreaIdRef.current;
+            isSnappingCustomStop = true;
+            showRoadSnapNoticeRef.current("最寄りの道路位置を確認中…", false, {
+              autoDismissMs: null,
+              isPending: true,
+            });
             void (async () => {
               try {
+                // 追加モード開始時のウォームアップが同一エリアで進行中なら完了を待ち、
+                // サーバー側の二重インデックス構築を防ぐ。
+                if (snapRoadWarmupRef.current?.areaId === clickAreaId) {
+                  await snapRoadWarmupRef.current.promise;
+                }
+                if (cancelled || selectedAreaIdRef.current !== clickAreaId) return;
                 const res = await fetch(
                   `/api/snap-road?lat=${groundPos.lat}&lng=${groundPos.lng}&area=${encodeURIComponent(
-                    selectedAreaIdRef.current
+                    clickAreaId
                   )}&maxDistance=60`
                 );
+                if (cancelled || selectedAreaIdRef.current !== clickAreaId) return;
                 if (!res.ok) {
                   addCustomStop(groundPos.lat, groundPos.lng);
+                  showRoadSnapNoticeRef.current("指定地点に停留所を配置しました");
                   return;
                 }
                 const data: {
@@ -4317,9 +4400,11 @@ export default function PlateauViewer() {
                   snappedTo: { lat: number; lng: number } | null;
                   areaNotSupported?: boolean;
                 } = await res.json();
+                if (cancelled || selectedAreaIdRef.current !== clickAreaId) return;
 
                 if (data.areaNotSupported) {
                   addCustomStop(groundPos.lat, groundPos.lng);
+                  showRoadSnapNoticeRef.current("指定地点に停留所を配置しました");
                   return;
                 }
 
@@ -4343,7 +4428,12 @@ export default function PlateauViewer() {
                   );
                 }
               } catch {
-                addCustomStop(groundPos.lat, groundPos.lng);
+                if (!cancelled && selectedAreaIdRef.current === clickAreaId) {
+                  addCustomStop(groundPos.lat, groundPos.lng);
+                  showRoadSnapNoticeRef.current("指定地点に停留所を配置しました");
+                }
+              } finally {
+                isSnappingCustomStop = false;
               }
             })();
           }
@@ -4556,6 +4646,11 @@ export default function PlateauViewer() {
       flyToCustomStopRef.current = null;
       reapplyCustomStopScoresRef.current = null;
       exportCustomStopSimulationGeoJsonRef.current = null;
+      warmUpRoutingGraphRef.current = null;
+      if (roadSnapNoticeTimerRef.current) {
+        clearTimeout(roadSnapNoticeTimerRef.current);
+        roadSnapNoticeTimerRef.current = null;
+      }
       reapplyMobilityHubScoresRef.current = null;
       flyToMobilityHubRef.current = null;
       exportMobilityHubGeoJsonRef.current = null;
@@ -4653,20 +4748,7 @@ export default function PlateauViewer() {
         mobilityHubRescuedArea={mobilityHubSummary?.newlyCoveredFloorArea}
         isCollapsed={isLegendCollapsed}
         onToggleCollapsed={() => setIsLegendCollapsed((prev) => !prev)}
-        onToggleAddingCustomStop={() => {
-          setIsAddingCustomStop((prev) => {
-            const next = !prev;
-            if (next) {
-              setIsLegendCollapsed(true);
-              if (isMobilityHubActiveRef.current) {
-                handleCloseMobilityHub();
-              }
-            } else if ((customStopSummary?.stopCount ?? 0) === 0) {
-              setIsLegendCollapsed(false);
-            }
-            return next;
-          });
-        }}
+        onToggleAddingCustomStop={handleToggleAddingCustomStop}
         onClearCustomStops={() => {
           setIsAddingCustomStop(false);
           clearCustomStopsRef.current?.();
@@ -4681,18 +4763,7 @@ export default function PlateauViewer() {
         analysisThresholdMultiplier={
           distanceModel === "network" ? networkThresholdMultiplier : demandTransitAnalysisThresholdMultiplier
         }
-        onToggleAddingCustomStop={() => {
-          setIsAddingCustomStop((prev) => {
-            const next = !prev;
-            if (next && isMobilityHubActiveRef.current) {
-              handleCloseMobilityHub();
-            }
-            if (!next && (customStopSummary?.stopCount ?? 0) === 0) {
-              setIsLegendCollapsed(false);
-            }
-            return next;
-          });
-        }}
+        onToggleAddingCustomStop={handleToggleAddingCustomStop}
         onClearStops={() => {
           setIsAddingCustomStop(true);
           clearCustomStopsRef.current?.();
@@ -4775,7 +4846,7 @@ export default function PlateauViewer() {
                 }
           }
         >
-          <span>{roadSnapNotice.isError ? "⚠️" : "📍"}</span>
+          <span>{roadSnapNotice.isError ? "⚠️" : roadSnapNotice.isPending ? "⏳" : "📍"}</span>
           <span>{roadSnapNotice.message}</span>
         </div>
       )}
